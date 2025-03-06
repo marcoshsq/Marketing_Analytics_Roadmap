@@ -1,9 +1,33 @@
-# Marketing Digital & Marketing Analytics Self-Taught Curriculum
+<!--Essas Tgas são mais para mim me achar enquanto estiver editando esse arquivo.-->
 
-## Summary
-This curriculum provides a structured path to learning Digital Marketing and Marketing Analytics through self-study. The courses cover fundamental concepts, consumer engagement strategies, performance measurement, data science applications in marketing, and advanced topics like CRM, social networks, and online persuasion.
+<!--Cabeçalho da página. -->
 
-## About
+<p align="center">
+  <a href="https://github.com/marcoshsq/Curriculo_Autodidata_Dados">
+    <img src="https://wallpapers.com/images/hd/marketing-light-blue-artwork-6ha8spypwyb8z6m8.jpg" alt="Developer Roadmap" width="" height="">
+  </a>
+</p>
+
+<h2 align="center">Data Science and Analytics Self-Taught Program</h2>
+
+---
+
+<!--Fim da seção cabeçalho.-->
+ 
+## 📌 Summary
+
+- [About](#about)
+- [Learning Goals](#learning-goals)
+- [Curriculum Overview](#curriculum-overview)
+- [How to Use This Curriculum](#how-to-use-this-curriculum)
+- [Extra Bibliography](#extra-bibliography)
+- [References](#references)
+- [Notes and Clarifications](#notes-and-clarifications)
+
+---
+
+## 🧠 About
+
 This self-paced learning path is designed for those who want to build expertise in digital marketing and analytics. It includes carefully selected courses that range from foundational principles to advanced analytics, enabling learners to develop skills in marketing strategy, performance measurement, and data-driven decision-making.
 
 ## Learning Goals
