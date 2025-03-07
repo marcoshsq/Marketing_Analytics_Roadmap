@@ -92,7 +92,7 @@ Course | Offered by | Effort | Certificate, if applicable | Status |
 **[Introdução ao Marketing Digital](https://www.coursera.org/learn/introducao-ao-marketing-digital?specialization=planejamento-estrategico-de-marketing-digital)** | Fundação Instituto de Administração | ~30h | -- | -- |
 **[Preparando o Marketing Digital](https://www.coursera.org/learn/preparando-o-marketing-digital?specialization=planejamento-estrategico-de-marketing-digital)** |  Fundação Instituto de Administração | ~31h | -- | -- |
 **[Digital Marketing](https://www.coursera.org/learn/illinois-tech-digital-marketing)** | Illinois Tech | ~64h | -- | -- |
-**[Customer Understanding and Digital Marketing Channels](https://www.coursera.org/learn/customer-understanding-and-digital-marketing-channels?specialization=unilever-digital-marketing-analyst)** | Illinois Tech | ~64h | -- | -- |
+**[Customer Understanding and Digital Marketing Channels](https://www.coursera.org/learn/customer-understanding-and-digital-marketing-channels?specialization=unilever-digital-marketing-analyst)** | Unilever | ~22h | -- | -- |
 
 ##
 
