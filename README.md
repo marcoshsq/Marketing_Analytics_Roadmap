@@ -3,7 +3,7 @@
 <!--Cabeçalho da página. -->
 
 <p align="center">
-  <a href="https://github.com/marcoshsq/Curriculo_Autodidata_Dados">
+  <a href="https://github.com/marcoshsq/The_Self-Taught_Marketing_Analyst">
     <img src="https://wallpapers.com/images/hd/marketing-light-blue-artwork-6ha8spypwyb8z6m8.jpg" alt="Developer Roadmap" width="" height="">
   </a>
 </p>
@@ -101,6 +101,7 @@ Course | Offered by | Effort | Certificate, if applicable | Status |
 **[Introdução ao Marketing Digital](https://www.coursera.org/learn/introducao-ao-marketing-digital?specialization=planejamento-estrategico-de-marketing-digital)** | Fundação Instituto de Administração | ~30h | -- | -- |
 **[Preparando o Marketing Digital](https://www.coursera.org/learn/preparando-o-marketing-digital?specialization=planejamento-estrategico-de-marketing-digital)** |  Fundação Instituto de Administração | ~31h | -- | -- |
 **[Digital Marketing](https://www.coursera.org/learn/illinois-tech-digital-marketing)** | Illinois Tech | ~64h | -- | -- |
+**[Customer Understanding and Digital Marketing Channels](https://www.coursera.org/learn/customer-understanding-and-digital-marketing-channels?specialization=unilever-digital-marketing-analyst)** | Illinois Tech | ~64h | -- | -- |
 
 ---
 
@@ -108,11 +109,11 @@ Course | Offered by | Effort | Certificate, if applicable | Status |
 
 Course | Offered by | Effort | Certificate, if applicable | Status |
 :-- | :--: | :--: | :--: | :--: |
-**[Attract and Engage Customers with Digital Marketing]()** | Google | ~14h | -- | -- |
-**[From Likes to Leads: Interact with Customers Online]()** | Google | ~20h | -- | -- |
-**[Think Outside the Inbox: Email Marketing]()** | Google | ~18h | -- | -- |
-**[Make the Sale: Build, Launch, and Manage E-commerce Stores]()** | Google | ~15h | -- | -- |
-**[Satisfaction Guaranteed: Develop Customer Loyalty Online]()** | Google | - | -- | -- |
+**[Attract and Engage Customers with Digital Marketing](https://www.coursera.org/learn/attract-and-engage-customers?specialization=google-digital-marketing-ecommerce)** | Google | ~14h | -- | -- |
+**[From Likes to Leads: Interact with Customers Online](https://www.coursera.org/learn/from-likes-to-leads?specialization=google-digital-marketing-ecommerce)** | Google | ~20h | -- | -- |
+**[Think Outside the Inbox: Email Marketing](https://www.coursera.org/learn/think-outside-the-inbox?specialization=google-digital-marketing-ecommerce)** | Google | ~18h | -- | -- |
+**[Make the Sale: Build, Launch, and Manage E-commerce Stores](https://www.coursera.org/learn/make-the-sale?specialization=google-digital-marketing-ecommerce)** | Google | ~15h | -- | -- |
+**[Satisfaction Guaranteed: Develop Customer Loyalty Online](https://www.coursera.org/learn/satisfaction-guaranteed?specialization=google-digital-marketing-ecommerce)** | Google | ~22h | -- | -- |
 
 ---
 
@@ -120,11 +121,10 @@ Course | Offered by | Effort | Certificate, if applicable | Status |
 
 Course | Offered by | Effort | Certificate, if applicable | Status |
 :-- | :--: | :--: | :--: | :--: |
-**[Assess for Success: Marketing Analytics and Measurement]()** | Google | ~18h | -- | -- |
-**[Measurement and Analysis]()** | Unilever | ~27h | -- | -- |
-**[Campaign Performance Reporting, Visualization, & Improvement]()** | Unilever | ~21h | -- | -- |
-**[Medindo o Marketing Digital]()** | - | ~27h | -- | -- |
-**[Otimizando o Marketing Digital]()** | - | ~13h | -- | -- |
+**[Assess for Success: Marketing Analytics and Measurement](https://www.coursera.org/learn/assess-for-success?specialization=google-digital-marketing-ecommerce)** | Google | ~18h | -- | -- |
+**[Measurement and Analysis](https://www.coursera.org/learn/measurement-and-analysis?specialization=unilever-digital-marketing-analyst)** | Unilever | ~27h | -- | -- |
+**[Campaign Performance Reporting, Visualization, & Improvement](https://www.coursera.org/learn/campaign-performance-reporting-visualization-improvement?specialization=unilever-digital-marketing-analyst)** | Unilever | ~21h | -- | -- |
+**[Medindo o Marketing Digital](https://www.coursera.org/learn/medindo-o-marketing-digital?specialization=planejamento-estrategico-de-marketing-digital)** | Fundação Instituto de Administração | ~27h | -- | -- |
 
 ---
 
@@ -132,10 +132,10 @@ Course | Offered by | Effort | Certificate, if applicable | Status |
 
 Course | Offered by | Effort | Certificate, if applicable | Status |
 :-- | :--: | :--: | :--: | :--: |
-**[Introdução à Ciência e Engenharia de Dados]()** | - | ~30h | -- | -- |
-**[Ferramentas para Ciência de Dados: Introdução ao R]()** | - | - | -- | -- |
-**[Fundamentos de Inteligência Artificial em Marketing]()** | - | ~27h | -- | -- |
-**[Fundamentos de IA Aplicados ao CRM e Transformação Digital]()** | - | ~32h | -- | -- |
+**[Customer Data Analytics](https://www.coursera.org/learn/customer-data-analytics?specialization=datascienceformarketing)** | Colorado Boulder | ~23h | -- | -- |
+**[Regression Modeling for Marketers](https://www.coursera.org/learn/regression-modeling-marketing?specialization=datascienceformarketing)** | - | ~19h | -- | -- |
+**[Machine Learning for Marketing](https://www.coursera.org/learn/machine-learning-marketing?specialization=datascienceformarketing)** | - | ~21h | -- | -- |
+**[Time, Change, and Decision Making for Marketers](https://www.coursera.org/learn/time-change-decisions-for-marketing?specialization=datascienceformarketing)** | - | ~22h | -- | -- |
 
 ---
 
@@ -143,14 +143,14 @@ Course | Offered by | Effort | Certificate, if applicable | Status |
 
 Course | Offered by | Effort | Certificate, if applicable | Status |
 :-- | :--: | :--: | :--: | :--: |
-**[Marketing Science e Estratégia de Marketing]()** | - | ~37h | -- | -- |
-**[Marketing e o Consumidor no Ambiente Digital]()** | - | ~34h | -- | -- |
-**[Engajamento, Conversão e o Consumidor]()** | - | ~30h | -- | -- |
-**[Decisões de Marketing Baseadas em Dados]()** | - | ~35h | -- | -- |
-**[Pesquisa de Mercado e Gestão Estratégica]()** | - | ~35h | -- | -- |
-**[Pesquisa de Mercado com Métodos Qualitativos]()** | - | ~38h | -- | -- |
-**[Pesquisa de Mercado com Métodos Quantitativos]()** | - | ~30h | -- | -- |
-**[Análise de Dados Quantitativos]()** | - | - | -- | -- |
+**[Marketing Science e Estratégia de Marketing](https://www.coursera.org/learn/marketing-science-e-estrategia-de-marketing?specialization=marketing-e-data-science)** | Fundação Instituto de Administração | ~37h | -- | -- |
+**[Marketing e o Consumidor no Ambiente Digital](https://www.coursera.org/learn/marketing-e-o-consumidor-no-ambiente-digital?specialization=marketing-e-data-science)** | Fundação Instituto de Administração | ~34h | -- | -- |
+**[Engajamento, Conversão e o Consumidor](https://www.coursera.org/learn/engajamento-conversao-e-o-consumidor?specialization=marketing-e-data-science)** | Fundação Instituto de Administração | ~30h | -- | -- |
+**[Decisões de Marketing Baseadas em Dados](https://www.coursera.org/learn/decisoes-de-marketing-baseadas-em-dados?specialization=marketing-e-data-science)** | - | ~35h | -- | -- |
+**[Pesquisa de Mercado e Gestão Estratégica](https://www.coursera.org/learn/pesquisa-de-mercado-e-a-gestao-estrategica-de-marketing?specialization=pesquisa-de-mercado-e-estrategia-de-marketing)** | Fundação Instituto de Administração | ~35h | -- | -- |
+**[Pesquisa de Mercado com Métodos Qualitativos](https://www.coursera.org/learn/pesquisa-de-mercado-com-metodos-qualitativos?specialization=pesquisa-de-mercado-e-estrategia-de-marketing)** | Fundação Instituto de Administração | ~38h | -- | -- |
+**[Pesquisa de Mercado com Métodos Quantitativos](https://www.coursera.org/learn/pesquisa-de-mercado-com-metodos-quantitativos?specialization=pesquisa-de-mercado-e-estrategia-de-marketing)** | Fundação Instituto de Administração | ~30h | -- | -- |
+**[Análise de Dados Quantitativos](https://www.coursera.org/learn/analise-de-dados-quantitativos?specialization=pesquisa-de-mercado-e-estrategia-de-marketing)** | Fundação Instituto de Administração | - | -- | -- |
 
 ---
 
@@ -158,12 +158,12 @@ Course | Offered by | Effort | Certificate, if applicable | Status |
 
 Course | Offered by | Effort | Certificate, if applicable | Status |
 :-- | :--: | :--: | :--: | :--: |
-**[CRM, Dados e o Futuro Centrado no Cliente]()** | - | ~25h | -- | -- |
-**[Advanced Tools for Digital Marketing Analytics]()** | Unilever | -- | -- | -- |
-**[Online Influence and Persuasion]()** | - | ~21h | -- | -- |
-**[Social Network Analysis]()** | - | - | -- | -- |
-**[Network Visualization and Intervention]()** | - | ~12h | -- | -- |
-**[Artificial Intelligence in Social Media Analytics]()** | - | - | -- | -- |
+**[CRM, Dados e o Futuro Centrado no Cliente](https://www.coursera.org/learn/crm-dados-e-o-futuro-centrado-no-cliente?specialization=inteligencia-artificial-aplicada-ao-crm)** | Fundação Instituto de Administração | ~25h | -- | -- |
+**[Advanced Tools for Digital Marketing Analytics](https://www.coursera.org/learn/advanced-tools-for-digital-marketing-analytics?specialization=unilever-digital-marketing-analyst)** | Unilever | ~20h | -- | -- |
+**[Online Influence and Persuasion](https://www.coursera.org/learn/online-influence-and-persuasion?specialization=social-media-analytics)** | Johns Hopkins | ~21h | -- | -- |
+**[Social Network Analysis](https://www.coursera.org/learn/social-network-analysis2?specialization=social-media-analytics)** | Johns Hopkins | ~13h | -- | -- |
+**[Network Visualization and Intervention](https://www.coursera.org/learn/network-visualization-and-interventions?specialization=social-media-analytics)** | Johns Hopkins | ~12h | -- | -- |
+**[Artificial Intelligence in Social Media Analytics](https://www.coursera.org/learn/artificial-intelligence-in-social-media-analytics?specialization=social-media-analytics)** | Johns Hopkins | - | -- | -- |
 
 ---
 
