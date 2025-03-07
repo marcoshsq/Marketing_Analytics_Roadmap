@@ -8,7 +8,7 @@
   </a>
 </p>
 
-<h2 align="center">Data Science and Analytics Self-Taught Program</h2>
+<h2 align="center">Digital Marketing Analytics Self-Taught Program</h2>
 
 ---
 
@@ -108,11 +108,11 @@ Course | Offered by | Effort | Certificate, if applicable | Status |
 
 Course | Offered by | Effort | Certificate, if applicable | Status |
 :-- | :--: | :--: | :--: | :--: |
-**Attract and Engage Customers with Digital Marketing** | Google | ~14h | [Certificate](#) | X |
-**From Likes to Leads: Interact with Customers Online** | Google | ~20h | [Certificate](#) | X |
-**Think Outside the Inbox: Email Marketing** | Google | ~18h | [Certificate](#) | X |
-**Make the Sale: Build, Launch, and Manage E-commerce Stores** | Google | ~15h | [Certificate](#) | X |
-**Satisfaction Guaranteed: Develop Customer Loyalty Online** | Google | - | [Certificate](#) | X |
+**[Attract and Engage Customers with Digital Marketing]()** | Google | ~14h | -- | -- |
+**[From Likes to Leads: Interact with Customers Online]()** | Google | ~20h | -- | -- |
+**[Think Outside the Inbox: Email Marketing]()** | Google | ~18h | -- | -- |
+**[Make the Sale: Build, Launch, and Manage E-commerce Stores]()** | Google | ~15h | -- | -- |
+**[Satisfaction Guaranteed: Develop Customer Loyalty Online]()** | Google | - | -- | -- |
 
 ---
 
@@ -120,11 +120,11 @@ Course | Offered by | Effort | Certificate, if applicable | Status |
 
 Course | Offered by | Effort | Certificate, if applicable | Status |
 :-- | :--: | :--: | :--: | :--: |
-**Assess for Success: Marketing Analytics and Measurement** | Google | ~18h | [Certificate](#) | X |
-**Measurement and Analysis** | Unilever | ~27h | [Certificate](#) | X |
-**Campaign Performance Reporting, Visualization, & Improvement** | Unilever | ~21h | [Certificate](#) | X |
-**Medindo o Marketing Digital** | - | ~27h | - | X |
-**Otimizando o Marketing Digital** | - | ~13h | - | X |
+**[Assess for Success: Marketing Analytics and Measurement]()** | Google | ~18h | -- | -- |
+**[Measurement and Analysis]()** | Unilever | ~27h | -- | -- |
+**[Campaign Performance Reporting, Visualization, & Improvement]()** | Unilever | ~21h | -- | -- |
+**[Medindo o Marketing Digital]()** | - | ~27h | -- | -- |
+**[Otimizando o Marketing Digital]()** | - | ~13h | -- | -- |
 
 ---
 
@@ -132,10 +132,10 @@ Course | Offered by | Effort | Certificate, if applicable | Status |
 
 Course | Offered by | Effort | Certificate, if applicable | Status |
 :-- | :--: | :--: | :--: | :--: |
-**Introdução à Ciência e Engenharia de Dados** | - | ~30h | - | X |
-**Ferramentas para Ciência de Dados: Introdução ao R** | - | - | - | X |
-**Fundamentos de Inteligência Artificial em Marketing** | - | ~27h | - | X |
-**Fundamentos de IA Aplicados ao CRM e Transformação Digital** | - | ~32h | - | X |
+**[Introdução à Ciência e Engenharia de Dados]()** | - | ~30h | -- | -- |
+**[Ferramentas para Ciência de Dados: Introdução ao R]()** | - | - | -- | -- |
+**[Fundamentos de Inteligência Artificial em Marketing]()** | - | ~27h | -- | -- |
+**[Fundamentos de IA Aplicados ao CRM e Transformação Digital]()** | - | ~32h | -- | -- |
 
 ---
 
@@ -143,14 +143,14 @@ Course | Offered by | Effort | Certificate, if applicable | Status |
 
 Course | Offered by | Effort | Certificate, if applicable | Status |
 :-- | :--: | :--: | :--: | :--: |
-**Marketing Science e Estratégia de Marketing** | - | ~37h | - | X |
-**Marketing e o Consumidor no Ambiente Digital** | - | ~34h | - | X |
-**Engajamento, Conversão e o Consumidor** | - | ~30h | - | X |
-**Decisões de Marketing Baseadas em Dados** | - | ~35h | - | X |
-**Pesquisa de Mercado e Gestão Estratégica** | - | ~35h | - | X |
-**Pesquisa de Mercado com Métodos Qualitativos** | - | ~38h | - | X |
-**Pesquisa de Mercado com Métodos Quantitativos** | - | ~30h | - | X |
-**Análise de Dados Quantitativos** | - | - | - | X |
+**[Marketing Science e Estratégia de Marketing]()** | - | ~37h | -- | -- |
+**[Marketing e o Consumidor no Ambiente Digital]()** | - | ~34h | -- | -- |
+**[Engajamento, Conversão e o Consumidor]()** | - | ~30h | -- | -- |
+**[Decisões de Marketing Baseadas em Dados]()** | - | ~35h | -- | -- |
+**[Pesquisa de Mercado e Gestão Estratégica]()** | - | ~35h | -- | -- |
+**[Pesquisa de Mercado com Métodos Qualitativos]()** | - | ~38h | -- | -- |
+**[Pesquisa de Mercado com Métodos Quantitativos]()** | - | ~30h | -- | -- |
+**[Análise de Dados Quantitativos]()** | - | - | -- | -- |
 
 ---
 
@@ -158,12 +158,12 @@ Course | Offered by | Effort | Certificate, if applicable | Status |
 
 Course | Offered by | Effort | Certificate, if applicable | Status |
 :-- | :--: | :--: | :--: | :--: |
-**CRM, Dados e o Futuro Centrado no Cliente** | - | ~25h | - | X |
-**Advanced Tools for Digital Marketing Analytics** | Unilever | - | [Certificate](#) | X |
-**Online Influence and Persuasion** | - | ~21h | - | X |
-**Social Network Analysis** | - | - | - | X |
-**Network Visualization and Intervention** | - | ~12h | - | X |
-**Artificial Intelligence in Social Media Analytics** | - | - | - | X |
+**[CRM, Dados e o Futuro Centrado no Cliente]()** | - | ~25h | -- | -- |
+**[Advanced Tools for Digital Marketing Analytics]()** | Unilever | -- | -- | -- |
+**[Online Influence and Persuasion]()** | - | ~21h | -- | -- |
+**[Social Network Analysis]()** | - | - | -- | -- |
+**[Network Visualization and Intervention]()** | - | ~12h | -- | -- |
+**[Artificial Intelligence in Social Media Analytics]()** | - | - | -- | -- |
 
 ---
 
