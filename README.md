@@ -28,26 +28,79 @@
 
 ## 🧠 About
 
-This self-paced learning path is designed for those who want to build expertise in digital marketing and analytics. It includes carefully selected courses that range from foundational principles to advanced analytics, enabling learners to develop skills in marketing strategy, performance measurement, and data-driven decision-making.
+Include text
 
-## Learning Goals
-- Understand digital marketing fundamentals and key strategies.
-- Learn how to attract, engage, and convert customers online.
-- Develop skills in marketing analytics and performance measurement.
-- Apply data science and AI techniques to marketing.
-- Gain expertise in market research and consumer behavior.
-- Explore advanced topics in CRM, social media analytics, and persuasion.
+---
 
-## Curriculum Overview
+## 🎯 Learning Goals
+
+By completing this curriculum, you will develop proficiency in:
+
+### 1️⃣ **Include text**
+**Include text**
+
+### 2️⃣ **Include text**
+**Include text**
+
+### 3️⃣ **Include text**
+**Include text**
+
+### 4️⃣ **Include text**
+**Include text**
+
+---
+
+## 📚 Curriculum Overview
+
+The curriculum is divided into well-structured sections, each covering essential areas of digital marketing:
+**Include text**
+
+
+A detailed breakdown of each section, including recommended courses, can be found in the repository.
+
+---
+
+## 📌 How to Use This Curriculum
+
+This roadmap is flexible and can be adapted based on your learning pace and background:
+
+✅ Follow it **sequentially** if you're starting from scratch.
+✅ Skip sections if you already have knowledge in a particular area.
+✅ Combine different resources, projects, and additional readings.
+
+Each module contains curated courses with estimated effort and certification options when available.
+
+##
+
+<div align="right">
+	
+[To the top](https://github.com/marcoshsq/The_Self-taught_Data_Scientist/tree/main#content-summary)
+	
+</div>
+
+<!-- 
+
+
+
+Espaço para organização pessoal u.u
+
+
+
+-->
+
+
+---
+
+##
 
 ### Section 01 - Fundamentals of Digital Marketing and E-commerce (~137h)
 
 Course | Offered by | Effort | Certificate, if applicable | Status |
 :-- | :--: | :--: | :--: | :--: |
-**Foundations of Digital Marketing and E-commerce** | Google | ~12h | [Certificate](#) | X |
-**Introdução ao Marketing Digital** | - | ~30h | - | X |
-**Preparando o Marketing Digital** | - | ~31h | - | X |
-**Digital Marketing** | Illinois Tech | ~64h | [Certificate](#) | X |
+**[Foundations of Digital Marketing and E-commerce](https://www.coursera.org/learn/foundations-of-digital-marketing-and-e-commerce?specialization=google-digital-marketing-ecommerce)** | Google | ~12h | -- | -- |
+**[Introdução ao Marketing Digital](https://www.coursera.org/learn/introducao-ao-marketing-digital?specialization=planejamento-estrategico-de-marketing-digital)** | Fundação Instituto de Administração | ~30h | -- | -- |
+**[Preparando o Marketing Digital](https://www.coursera.org/learn/preparando-o-marketing-digital?specialization=planejamento-estrategico-de-marketing-digital)** |  Fundação Instituto de Administração | ~31h | -- | -- |
+**[Digital Marketing](https://www.coursera.org/learn/illinois-tech-digital-marketing)** | Illinois Tech | ~64h | -- | -- |
 
 ---
 
