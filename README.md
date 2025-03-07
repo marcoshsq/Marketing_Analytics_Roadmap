@@ -94,11 +94,15 @@ Course | Offered by | Effort | Certificate, if applicable | Status |
 **[Digital Marketing](https://www.coursera.org/learn/illinois-tech-digital-marketing)** | Illinois Tech | ~64h | -- | -- |
 **[Customer Understanding and Digital Marketing Channels](https://www.coursera.org/learn/customer-understanding-and-digital-marketing-channels?specialization=unilever-digital-marketing-analyst)** | Illinois Tech | ~64h | -- | -- |
 
+##
+
 <div align="right">
 	
 [To the top](https://github.com/marcoshsq/The_Self-taught_Data_Scientist/tree/main#content-summary)
 	
 </div>
+
+##
 
 <!-- 
 
@@ -119,11 +123,15 @@ Course | Offered by | Effort | Certificate, if applicable | Status |
 **[Make the Sale: Build, Launch, and Manage E-commerce Stores](https://www.coursera.org/learn/make-the-sale?specialization=google-digital-marketing-ecommerce)** | Google | ~15h | -- | -- |
 **[Satisfaction Guaranteed: Develop Customer Loyalty Online](https://www.coursera.org/learn/satisfaction-guaranteed?specialization=google-digital-marketing-ecommerce)** | Google | ~22h | -- | -- |
 
+##
+
 <div align="right">
 	
 [To the top](https://github.com/marcoshsq/The_Self-taught_Data_Scientist/tree/main#content-summary)
 	
 </div>
+
+##
 
 <!-- 
 
@@ -147,11 +155,15 @@ Course | Offered by | Effort | Certificate, if applicable | Status |
 **[Advanced Techniques in Data Visualization](https://www.coursera.org/learn/advanced-techniques-in-data-visualization?specialization=data-visualization-dv)** | Johns Hopkins | ~28h | -- | -- |
 **[Specialized Data Visualization Approaches](https://www.coursera.org/learn/specialized-data-visualization-approaches?specialization=data-visualization-dv)** | Johns Hopkins | ~31h | -- | -- |
 
+##
+
 <div align="right">
 	
 [To the top](https://github.com/marcoshsq/The_Self-taught_Data_Scientist/tree/main#content-summary)
 	
 </div>
+
+##
 
 <!-- 
 
@@ -173,12 +185,15 @@ Course | Offered by | Effort | Certificate, if applicable | Status |
 **[Advertising with Meta](https://www.coursera.org/learn/advertising-with-facebook?specialization=facebook-social-media-marketing)** | Meta | ~13h | -- | -- |
 **[Measure and Optimize Social Media Marketing Campaigns](https://www.coursera.org/learn/measure-and-optimize-social-media-marketing-campaigns?specialization=facebook-social-media-marketing)** | Meta | ~10h | -- | -- |
 
+##
+
 <div align="right">
 	
 [To the top](https://github.com/marcoshsq/The_Self-taught_Data_Scientist/tree/main#content-summary)
 	
 </div>
 
+##
 <!-- 
 
 
@@ -198,11 +213,15 @@ Course | Offered by | Effort | Certificate, if applicable | Status |
 **[Machine Learning for Marketing](https://www.coursera.org/learn/machine-learning-marketing?specialization=datascienceformarketing)** | Colorado Boulder | ~21h | -- | -- |
 **[Time, Change, and Decision Making for Marketers](https://www.coursera.org/learn/time-change-decisions-for-marketing?specialization=datascienceformarketing)** | Colorado Boulder | ~22h | -- | -- |
 
+##
+
 <div align="right">
 	
 [To the top](https://github.com/marcoshsq/The_Self-taught_Data_Scientist/tree/main#content-summary)
 	
 </div>
+
+##
 
 <!-- 
 
@@ -227,11 +246,15 @@ Course | Offered by | Effort | Certificate, if applicable | Status |
 **[Pesquisa de Mercado com Métodos Quantitativos](https://www.coursera.org/learn/pesquisa-de-mercado-com-metodos-quantitativos?specialization=pesquisa-de-mercado-e-estrategia-de-marketing)** | Fundação Instituto de Administração | ~30h | -- | -- |
 **[Análise de Dados Quantitativos](https://www.coursera.org/learn/analise-de-dados-quantitativos?specialization=pesquisa-de-mercado-e-estrategia-de-marketing)** | Fundação Instituto de Administração | - | -- | -- |
 
+##
+
 <div align="right">
 	
 [To the top](https://github.com/marcoshsq/The_Self-taught_Data_Scientist/tree/main#content-summary)
 	
 </div>
+
+##
 
 <!-- 
 
@@ -254,11 +277,15 @@ Course | Offered by | Effort | Certificate, if applicable | Status |
 **[Network Visualization and Intervention](https://www.coursera.org/learn/network-visualization-and-interventions?specialization=social-media-analytics)** | Johns Hopkins | ~12h | -- | -- |
 **[Artificial Intelligence in Social Media Analytics](https://www.coursera.org/learn/artificial-intelligence-in-social-media-analytics?specialization=social-media-analytics)** | Johns Hopkins | ~19h | -- | -- |
 
+##
+
 <div align="right">
-
-[To the top](#)
-
+	
+[To the top](https://github.com/marcoshsq/The_Self-taught_Data_Scientist/tree/main#content-summary)
+	
 </div>
+
+##
 
 ---
 
