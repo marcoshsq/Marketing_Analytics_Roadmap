@@ -148,9 +148,9 @@ Course | Offered by | Effort | Certificate, if applicable | Status |
 Course | Offered by | Effort | Certificate, if applicable | Status |
 :-- | :--: | :--: | :--: | :--: |
 **[Customer Data Analytics](https://www.coursera.org/learn/customer-data-analytics?specialization=datascienceformarketing)** | Colorado Boulder | ~23h | -- | -- |
-**[Regression Modeling for Marketers](https://www.coursera.org/learn/regression-modeling-marketing?specialization=datascienceformarketing)** | - | ~19h | -- | -- |
-**[Machine Learning for Marketing](https://www.coursera.org/learn/machine-learning-marketing?specialization=datascienceformarketing)** | - | ~21h | -- | -- |
-**[Time, Change, and Decision Making for Marketers](https://www.coursera.org/learn/time-change-decisions-for-marketing?specialization=datascienceformarketing)** | - | ~22h | -- | -- |
+**[Regression Modeling for Marketers](https://www.coursera.org/learn/regression-modeling-marketing?specialization=datascienceformarketing)** | Colorado Boulder | ~19h | -- | -- |
+**[Machine Learning for Marketing](https://www.coursera.org/learn/machine-learning-marketing?specialization=datascienceformarketing)** | Colorado Boulder | ~21h | -- | -- |
+**[Time, Change, and Decision Making for Marketers](https://www.coursera.org/learn/time-change-decisions-for-marketing?specialization=datascienceformarketing)** | Colorado Boulder | ~22h | -- | -- |
 
 ---
 
@@ -161,7 +161,7 @@ Course | Offered by | Effort | Certificate, if applicable | Status |
 **[Marketing Science e Estratégia de Marketing](https://www.coursera.org/learn/marketing-science-e-estrategia-de-marketing?specialization=marketing-e-data-science)** | Fundação Instituto de Administração | ~37h | -- | -- |
 **[Marketing e o Consumidor no Ambiente Digital](https://www.coursera.org/learn/marketing-e-o-consumidor-no-ambiente-digital?specialization=marketing-e-data-science)** | Fundação Instituto de Administração | ~34h | -- | -- |
 **[Engajamento, Conversão e o Consumidor](https://www.coursera.org/learn/engajamento-conversao-e-o-consumidor?specialization=marketing-e-data-science)** | Fundação Instituto de Administração | ~30h | -- | -- |
-**[Decisões de Marketing Baseadas em Dados](https://www.coursera.org/learn/decisoes-de-marketing-baseadas-em-dados?specialization=marketing-e-data-science)** | - | ~35h | -- | -- |
+**[Decisões de Marketing Baseadas em Dados](https://www.coursera.org/learn/decisoes-de-marketing-baseadas-em-dados?specialization=marketing-e-data-science)** | Fundação Instituto de Administração | ~35h | -- | -- |
 **[Pesquisa de Mercado e Gestão Estratégica](https://www.coursera.org/learn/pesquisa-de-mercado-e-a-gestao-estrategica-de-marketing?specialization=pesquisa-de-mercado-e-estrategia-de-marketing)** | Fundação Instituto de Administração | ~35h | -- | -- |
 **[Pesquisa de Mercado com Métodos Qualitativos](https://www.coursera.org/learn/pesquisa-de-mercado-com-metodos-qualitativos?specialization=pesquisa-de-mercado-e-estrategia-de-marketing)** | Fundação Instituto de Administração | ~38h | -- | -- |
 **[Pesquisa de Mercado com Métodos Quantitativos](https://www.coursera.org/learn/pesquisa-de-mercado-com-metodos-quantitativos?specialization=pesquisa-de-mercado-e-estrategia-de-marketing)** | Fundação Instituto de Administração | ~30h | -- | -- |
