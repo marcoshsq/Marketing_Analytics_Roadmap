@@ -125,10 +125,25 @@ Course | Offered by | Effort | Certificate, if applicable | Status |
 **[Measurement and Analysis](https://www.coursera.org/learn/measurement-and-analysis?specialization=unilever-digital-marketing-analyst)** | Unilever | ~27h | -- | -- |
 **[Campaign Performance Reporting, Visualization, & Improvement](https://www.coursera.org/learn/campaign-performance-reporting-visualization-improvement?specialization=unilever-digital-marketing-analyst)** | Unilever | ~21h | -- | -- |
 **[Medindo o Marketing Digital](https://www.coursera.org/learn/medindo-o-marketing-digital?specialization=planejamento-estrategico-de-marketing-digital)** | Fundação Instituto de Administração | ~27h | -- | -- |
+**[Foundations of Data Visualization](https://www.coursera.org/learn/foundations-of-data-visualization?specialization=data-visualization-dv)** | Johns Hopkins | ~21h | -- | -- |
+**[Advanced Techniques in Data Visualization](https://www.coursera.org/learn/advanced-techniques-in-data-visualization?specialization=data-visualization-dv)** | Johns Hopkins | ~28h | -- | -- |
+**[Specialized Data Visualization Approaches](https://www.coursera.org/learn/specialized-data-visualization-approaches?specialization=data-visualization-dv)** | Johns Hopkins | ~31h | -- | -- |
 
 ---
 
-### Section 04 - Data Science and AI for Marketing (~89h)
+### Section 04 - Social Media Marketing (~106h)
+
+Course | Offered by | Effort | Certificate, if applicable | Status |
+:-- | :--: | :--: | :--: | :--: |
+**[Introduction of Social Media Marketing](https://www.coursera.org/learn/social-media-marketing-introduction?specialization=facebook-social-media-marketing)** | Meta | ~18h | -- | -- |
+**[Social Media Management](https://www.coursera.org/learn/social-media-management?specialization=facebook-social-media-marketing)** | Meta | ~17h | -- | -- |
+**[Fundamentals of Social Media Advertising](https://www.coursera.org/learn/social-media-advertising-fundamentals?specialization=facebook-social-media-marketing)** | Meta | ~10h | -- | -- |
+**[Advertising with Meta](https://www.coursera.org/learn/advertising-with-facebook?specialization=facebook-social-media-marketing)** | Meta | ~13h | -- | -- |
+**[Measure and Optimize Social Media Marketing Campaigns](https://www.coursera.org/learn/measure-and-optimize-social-media-marketing-campaigns?specialization=facebook-social-media-marketing)** | Meta | ~10h | -- | -- |
+
+---
+
+### Section 05 - Data Science and AI for Marketing (~89h)
 
 Course | Offered by | Effort | Certificate, if applicable | Status |
 :-- | :--: | :--: | :--: | :--: |
@@ -139,7 +154,7 @@ Course | Offered by | Effort | Certificate, if applicable | Status |
 
 ---
 
-### Section 05 - Market Research and Marketing Strategy (~239h)
+### Section 06 - Market Research and Marketing Strategy (~239h)
 
 Course | Offered by | Effort | Certificate, if applicable | Status |
 :-- | :--: | :--: | :--: | :--: |
@@ -154,7 +169,7 @@ Course | Offered by | Effort | Certificate, if applicable | Status |
 
 ---
 
-### Section 06 - Advanced Topics: CRM, Social Media, and Online Persuasion (~58h)
+### Section 07 - Advanced Topics: CRM, Social Media, and Online Persuasion (~58h)
 
 Course | Offered by | Effort | Certificate, if applicable | Status |
 :-- | :--: | :--: | :--: | :--: |
@@ -163,7 +178,7 @@ Course | Offered by | Effort | Certificate, if applicable | Status |
 **[Online Influence and Persuasion](https://www.coursera.org/learn/online-influence-and-persuasion?specialization=social-media-analytics)** | Johns Hopkins | ~21h | -- | -- |
 **[Social Network Analysis](https://www.coursera.org/learn/social-network-analysis2?specialization=social-media-analytics)** | Johns Hopkins | ~13h | -- | -- |
 **[Network Visualization and Intervention](https://www.coursera.org/learn/network-visualization-and-interventions?specialization=social-media-analytics)** | Johns Hopkins | ~12h | -- | -- |
-**[Artificial Intelligence in Social Media Analytics](https://www.coursera.org/learn/artificial-intelligence-in-social-media-analytics?specialization=social-media-analytics)** | Johns Hopkins | - | -- | -- |
+**[Artificial Intelligence in Social Media Analytics](https://www.coursera.org/learn/artificial-intelligence-in-social-media-analytics?specialization=social-media-analytics)** | Johns Hopkins | ~19h | -- | -- |
 
 ---
 
