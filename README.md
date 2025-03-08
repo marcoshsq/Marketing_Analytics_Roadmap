@@ -1017,15 +1017,6 @@ Espaço para organização pessoal u.u
 
 -->
 
-## 🔗 References
-
-Sources used to structure this curriculum:
-
-- [OSSU Data Science](https://github.com/ossu/data-science#introduction-to-data-science) - Open-source university model.
-- [AI Expert Roadmap](https://i.am.ai/roadmap/#data-science-roadmap) - AI & Data Science roadmap.
-- [Roadmap SH](https://roadmap.sh/) - Learning paths for various tech disciplines.
-- [USP Statistics Course](https://uspdigital.usp.br/jupiterweb/listarGradeCurricular?codcg=55&codcur=55070&codhab=4&tipo=V) - Inspiration for course selection.
-
 <div align="right">
 	
 [To the top](https://github.com/marcoshsq/The_Self-taught_Data_Scientist/tree/main#content-summary)
