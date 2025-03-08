@@ -125,9 +125,12 @@ This structured approach will help me build a strong foundation, integrating mar
 ##
 
 #### 📌 Introduction to Marketing (University of Pennsylvania)
-This course provides a clear introduction to what marketing is, why it is essential for businesses, and how it influences consumer behavior and decision-making. I chose this course to establish a strong conceptual foundation before exploring more advanced marketing strategies and analytical techniques.
 
-Skills developed:
+This course provides a clear introduction to what marketing is, why it is essential for businesses, and how it influences consumer behavior and decision-making. 
+
+I chose this course to establish a strong conceptual foundation before exploring more advanced marketing strategies and analytical techniques.
+
+**Skills developed:**
 - Understanding the core principles of marketing and its role in business strategy
 - Exploring consumer behavior and decision-making processes
 - Introduction to key marketing concepts such as segmentation, positioning, and branding
@@ -136,21 +139,35 @@ Course | Offered by | Effort | Certificate, if applicable | Status |
 :-- | :--: | :--: | :--: | :--: |
 [Introduction to Marketing](https://www.coursera.org/learn/wharton-marketing?specialization=wharton-business-foundations) | University of Pennsylvania | ~10h | [Certificate of Completion](https://www.coursera.org/account/accomplishments/verify/SF2EJMBAXEYW) | ✓ |
 
+<!-- 
+
+
+
+Espaço para organização pessoal u.u
+
+
+
+-->
+
+
+##
+
 #### 📌 Google Digital Marketing & E-commerce Certificate (Google Career Certificates)
 
-This comprehensive certificate program provides a deep dive into the essentials of digital marketing and e-commerce, covering a broad range of topics that are critical for building and optimizing online businesses. It explores digital marketing strategies, customer engagement techniques, e-commerce platform management, and the tools necessary to execute successful marketing campaigns. I chose this program to develop a hands-on, practical understanding of digital marketing that can be applied to real-world business scenarios.
+This comprehensive certificate program provides a deep dive into the essentials of digital marketing and e-commerce, covering a broad range of topics that are critical for building and optimizing online businesses. It explores digital marketing strategies, customer engagement techniques, e-commerce platform management, and the tools necessary to execute successful marketing campaigns. 
 
-Skills developed:
+I chose this program to develop a hands-on, practical understanding of digital marketing that can be applied to real-world business scenarios.
 
+**Skills developed:**
 - Mastery of core digital marketing concepts, including customer acquisition and engagement strategies
 - Practical application of digital marketing tools and techniques, such as SEO, SEM, and email marketing
 - Knowledge of building and managing e-commerce stores, from product launch to customer retention
 - Proficiency in analyzing marketing data to measure success and improve campaigns
 - Understanding how to develop customer loyalty and improve long-term business relationships
 
-Course Breakdown:
+**Certificate Breakdown**
 
-This certificate represents an integrated course program, consisting of 7 courses, which are listed below:
+This certificate represents an integrated course program, consisting of 7 courses, which are listed individually below:
 
 1. [Foundations of Digital Marketing and E-commerce](##)
 2. [Attract and Engage Customers with Digital Marketing](##)
@@ -164,18 +181,44 @@ Course | Offered by | Effort | Certificate, if applicable | Status |
 :-- | :--: | :--: | :--: | :--: |
 [Google Digital Marketing & E-commerce Certificate](https://www.coursera.org/professional-certificates/google-digital-marketing-ecommerce) | Google Career Certificates | ~120h | [Certificate of Completion](##) | -- |
 
-#### 📌 The Data Scientist's Toolbox (Johns Hopkins University)
+<!-- 
 
-This course is essential for gaining familiarity with the fundamental tools used by data scientists. It introduces basic programming concepts, version control, and project organization—essential elements for working with data in a structured and efficient way.
 
-Skills developed:
-- Introduction to R and RStudio
-- Basic concepts of Git and GitHub for version control
-- Insights into data science workflows
+
+Espaço para organização pessoal u.u
+
+
+
+-->
+
+
+##
+
+#### 📌 Concepts, Strategies, and Analytics in Performance Marketing and Digital Advertising Specialization (University of Colorado Boulder)
+
+This introductory specialization provides a foundational understanding of performance marketing and digital advertising. It covers the basic strategies and metrics essential for running and measuring effective digital advertising campaigns. By focusing on key aspects of search, display, social media, and programmatic advertising, this course prepares learners to understand core concepts and tools before diving into more advanced techniques. 
+
+I chose this specialization to establish a strong base that will support my progression to more advanced digital marketing courses in the future.
+
+**Skills developed:**
+- Understanding the fundamentals of digital advertising strategies, including search, display, and social media advertising
+- Introduction to key performance metrics and how to measure the success of campaigns
+- Basic knowledge of programmatic advertising and automated ad buying
+- Proficiency in using analytics tools for measuring campaign performance
+- Insights into how to evaluate and optimize digital marketing efforts based on core metrics
+
+**Specialization Breakdown**
+
+This Specialization represents an integrated course program, consisting of 4 courses, which are listed individually below:
+
+1. [Introduction to Digital Advertising](https://www.coursera.org/account/accomplishments/verify/OR0E4RQH5NOZ)
+2. [Search and Display Advertising](https://www.coursera.org/account/accomplishments/verify/EZW9GHWC67N4)
+3. [Social Media Advertising](https://www.coursera.org/account/accomplishments/verify/0YYQEXW4NQAP)
+4. [Programmatic Advertising](https://www.coursera.org/account/accomplishments/verify/VLUUR8EPZLDY)
 
 Course | Offered by | Effort | Certificate, if applicable | Status |
 :-- | :--: | :--: | :--: | :--: |
-[The Data Scientist's Toolbox](https://www.coursera.org/learn/data-scientists-tools?specialization=jhu-data-science) | Johns Hopkins University | ~18h | [Certificate of Completion](https://www.coursera.org/account/accomplishments/verify/P6GUDTMJCQ6U) | ✓ |
+[Concepts, Strategies, and Analytics in Performance Marketing and Digital Advertising Specialization](https://www.coursera.org/specializations/digital-advertising-strategy) | University of Colorado Boulder | ~41h | [Certificate of Completion](https://www.coursera.org/account/accomplishments/specialization/Q9FT8A0N9YRN) | ✓ |
 
 ##
 
@@ -220,9 +263,6 @@ Espaço para organização pessoal u.u
 
 Especializações
 
-- (Introduction to Marketing)[https://www.coursera.org/learn/wharton-marketing?specialization=wharton-business-foundations]
-- (Google Digital Marketing & E-commerce Professional Certificate)[https://www.coursera.org/professional-certificates/google-digital-marketing-ecommerce]
-- (Concepts, Strategies, and Analytics in Performance Marketing and Digital Advertising Specialization)[https://www.coursera.org/specializations/digital-advertising-strategy]
 - (Planejamento Estratégico de Marketing Digital)[https://www.coursera.org/specializations/planejamento-estrategico-de-marketing-digital]
 - (Digital Marketing)[https://www.coursera.org/learn/illinois-tech-digital-marketing]
 - (Meta Social Media Marketing Professional Certificate)[https://www.coursera.org/professional-certificates/facebook-social-media-marketing]
