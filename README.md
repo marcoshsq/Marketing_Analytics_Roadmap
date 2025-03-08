@@ -711,7 +711,7 @@ Espaço para organização pessoal u.u
 
 ##
 
-### Section 05 - Business Intelligence, Data Visualization and Reporting Technologies (~xxh)
+### Section 05 - Business Intelligence, Data Visualization and Reporting Technologies (~300h)
 
 In this final section, my focus is on mastering Business Intelligence (BI), data visualization, and reporting technologies. This phase aims to refine my ability to analyze, visualize, and communicate data effectively, turning raw information into actionable business insights.
 
@@ -943,6 +943,86 @@ Espaço para organização pessoal u.u
 </div>
 
 ##
+
+<!-- 
+
+
+
+Espaço para organização pessoal u.u
+
+
+
+-->
+
+## 📖 Extra Bibliography
+
+If you're looking for deeper insights, consider these additional resources:
+
+### **Mathematics**
+- **[The Elements of Statistical Learning](https://shre.ink/lDR)** - Hastie, Tibshirani, Friedman.
+- **[Introduction to Statistical Learning](https://hastie.su.domains/ISLR2/ISLRv2_website.pdf)** - James, Witten, Hastie, Tibshirani.
+- **[Bayesian Statistics](https://shre.ink/lDX)** - Peter M. Lee.
+
+### **Machine Learning & AI**
+- **[Artificial Intelligence: A Modern Approach](https://www.amazon.com.br/dp/0136042597/)** - Stuart Russell.
+- **[Deep Learning Papers Reading Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)** - Collection of AI research papers.
+
+### **Programming & Databases**
+- **[SQL for Smarties](https://shre.ink/lD9)** - Joe Celko.
+- **[The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)** - MIT.
+
+These resources cover a wide range of topics from foundational mathematics and statistical theory to advanced machine learning and artificial intelligence.
+
+##
+
+<div align="right">
+	
+[To the top](https://github.com/marcoshsq/The_Self-taught_Data_Scientist/tree/main#content-summary)
+	
+</div>
+
+##
+
+<!-- 
+
+
+
+Espaço para organização pessoal u.u
+
+
+
+-->
+
+## 📝 Notes and Clarifications
+
+- Course durations are approximate and based on platform estimates.
+- Some books were accessed through university partnerships, but if you don't have access... well, explore alternative ways. If possible, support authors by purchasing them.
+- The curriculum is **continuously evolving** as new resources become available.
+  
+<!-- 
+
+
+
+Espaço para organização pessoal u.u
+
+
+
+-->
+
+## 🔗 References
+
+Sources used to structure this curriculum:
+
+- [OSSU Data Science](https://github.com/ossu/data-science#introduction-to-data-science) - Open-source university model.
+- [AI Expert Roadmap](https://i.am.ai/roadmap/#data-science-roadmap) - AI & Data Science roadmap.
+- [Roadmap SH](https://roadmap.sh/) - Learning paths for various tech disciplines.
+- [USP Statistics Course](https://uspdigital.usp.br/jupiterweb/listarGradeCurricular?codcg=55&codcur=55070&codhab=4&tipo=V) - Inspiration for course selection.
+
+<div align="right">
+	
+[To the top](https://github.com/marcoshsq/The_Self-taught_Data_Scientist/tree/main#content-summary)
+	
+</div>
 
 ---
 
