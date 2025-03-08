@@ -120,6 +120,16 @@ The main skills I aim to acquire at this stage include:
 
 This structured approach will help me build a strong foundation, integrating marketing and data-driven decision-making effectively.
 
+<!-- 
+
+
+
+Espaço para organização pessoal u.u
+
+
+
+-->
+
 ### Courses
 
 ##
@@ -148,7 +158,6 @@ Espaço para organização pessoal u.u
 
 
 -->
-
 
 ##
 
@@ -230,7 +239,6 @@ Espaço para organização pessoal u.u
 
 -->
 
-
 ##
 
 ### Section 02 - Advanced Strategies, Practical Application and Social Media Marketing (~248h)
@@ -249,6 +257,16 @@ The main skills I aim to develop at this stage include:
 - ✅ Proficiency in optimizing customer engagement, acquisition, and retention through advanced digital marketing tactics
 
 With this deeper knowledge, I’ll be equipped to drive impactful digital marketing campaigns that deliver measurable business outcomes.
+
+<!-- 
+
+
+
+Espaço para organização pessoal u.u
+
+
+
+-->
 
 ### Courses
 
@@ -280,6 +298,16 @@ Course | Offered by | Effort | Certificate, if applicable | Status |
 :-- | :--: | :--: | :--: | :--: |
 [Planejamento Estratégico de Marketing Digital Specialization](https://www.coursera.org/specializations/planejamento-estrategico-de-marketing-digital) | Fundação Instituto de Administração | ~120h | [Certificate of Completion](##) | -- |
 
+<!-- 
+
+
+
+Espaço para organização pessoal u.u
+
+
+
+-->
+
 ##
 
 #### 📌 Digital Marketing (Illinois Institute of Technology)
@@ -298,6 +326,16 @@ This course concludes the foundational phase of my digital marketing education, 
 Course | Offered by | Effort | Certificate, if applicable | Status |
 :-- | :--: | :--: | :--: | :--: |
 [Digital Marketing](https://www.coursera.org/learn/illinois-tech-digital-marketing) | Illinois Institute of Technology | ~64h | [Certificate of Completion](##) | -- |
+
+<!-- 
+
+
+
+Espaço para organização pessoal u.u
+
+
+
+-->
 
 ##
 
@@ -370,6 +408,16 @@ The main skills I aim to develop at this stage include:
 
 The courses I have selected for this phase are focused on marketing strategy and research, which will provide a structured approach to mastering strategic marketing and market research methodologies.
 
+<!-- 
+
+
+
+Espaço para organização pessoal u.u
+
+
+
+-->
+
 ### Courses
 
 ##
@@ -398,6 +446,16 @@ This Specialization represents an integrated course program, consisting of 4 cou
 Course | Offered by | Effort | Certificate, if applicable | Status |
 :-- | :--: | :--: | :--: | :--: |
 [Pesquisa de Mercado e Estratégia de Marketing Specialization](https://www.coursera.org/specializations/pesquisa-de-mercado-e-estrategia-de-marketing) | Fundação Instituto de Administração | ~120h | [Certificate of Completion](##) | -- |
+
+<!-- 
+
+
+
+Espaço para organização pessoal u.u
+
+
+
+-->
 
 ##
 
@@ -460,6 +518,16 @@ The main skills I aim to develop at this stage include:
 
 The courses I have selected for this phase are focused on data analytics and marketing intellingence, which will provide a structured approach to mastering data-driven marketing strategy.
 
+<!-- 
+
+
+
+Espaço para organização pessoal u.u
+
+
+
+-->
+
 ### Courses
 
 ##
@@ -499,6 +567,16 @@ Course | Offered by | Effort | Certificate, if applicable | Status |
 :-- | :--: | :--: | :--: | :--: |
 [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics?) | Google Career Certificates | ~180h | [Certificate of Completion](https://www.coursera.org/account/accomplishments/specialization/P8RY972C7SZ4) | ✓ |
 
+<!-- 
+
+
+
+Espaço para organização pessoal u.u
+
+
+
+-->
+
 ##
 
 #### 📌 Unilever Digital Marketing Analyst Professional Certificate (Unilever Career Certificates)
@@ -527,6 +605,16 @@ This Specialization represents an integrated course program, consisting of 4 cou
 Course | Offered by | Effort | Certificate, if applicable | Status |
 :-- | :--: | :--: | :--: | :--: |
 [Unilever Digital Marketing Analyst Professional Certificate](https://www.coursera.org/professional-certificates/unilever-digital-marketing-analyst) | Unilever Career Certificates | ~80h | [Certificate of Completion](##) | -- |
+
+<!-- 
+
+
+
+Espaço para organização pessoal u.u
+
+
+
+-->
 
 ##
 
@@ -557,6 +645,16 @@ This program will enhance my ability to evaluate marketing strategies with a dat
 Course | Offered by | Effort | Certificate, if applicable | Status |
 :-- | :--: | :--: | :--: | :--: |
 [Social Media Analytics Specialization](https://www.coursera.org/specializations/social-media-analytics) | Johns Hopkins University | ~60h | [Certificate of Completion](##) | -- |
+
+<!-- 
+
+
+
+Espaço para organização pessoal u.u
+
+
+
+-->
 
 ##
 
@@ -630,12 +728,211 @@ Key skills developed:
 
 By mastering these tools and methodologies, I will be able to build compelling data stories, enhance business reporting capabilities, and support strategic decision-making through data-driven insights.
 
-Seção 5 - BI e Advanced analytics
-
-- (Data Visualization Specialization)[https://www.coursera.org/specializations/data-visualization-dv]
-- (Google Business Intelligence Professional Certificate)[https://www.coursera.org/professional-certificates/google-business-intelligence]
+<!-- 
 
 
+
+Espaço para organização pessoal u.u
+
+
+
+-->
+
+### Courses
+
+##
+
+#### 📌 Google Business Intelligence Professional Certificate (Google Career Certificates)
+
+This advanced course is designed to provide a comprehensive understanding of the entire business intelligence lifecycle, from data collection and cleaning to reporting and visualization. It will equip me with essential skills in SQL, data wrangling, and visualization using industry-standard tools, while focusing on how to derive actionable business insights from complex datasets. 
+
+As I progress through my learning journey, this course will serve as a robust foundation, preparing me for more sophisticated analytics techniques and advanced marketing performance measurement in future stages.
+
+
+**Skills developed:**
+- Mastery of the data analysis process, including data collection, cleaning, transformation, and visualization
+- Proficiency in SQL for querying databases, extracting valuable insights, and creating data-driven reports
+- Expertise in using data visualization tools to present complex data in clear, impactful ways for business decision-making
+- Ability to identify trends and patterns, offering strategic insights to drive business performance
+- Strong focus on translating raw data into actionable business intelligence, enhancing marketing and operational strategies
+
+By completing this course, I will gain the technical and analytical skills needed to thrive in advanced BI and data-driven decision-making roles, ultimately enabling me to deliver high-impact reports and visualizations that influence business strategies.
+
+**Specialization Breakdown**
+
+This Specialization represents an integrated course program, consisting of 3 courses plus a capstone project, which are listed individually below:
+
+1. [Foundations of Business Intelligence](##)
+2. [The Path to Insights: Data Models and Pipelines](##)
+3. [Decisions, Decisions: Dashboards and Reports](##)
+ 
+Course | Offered by | Effort | Certificate, if applicable | Status |
+:-- | :--: | :--: | :--: | :--: |
+[Google Business Intelligence Professional Certificate](https://www.coursera.org/professional-certificates/google-business-intelligence) | Google Career Certificates | ~50h | [Certificate of Completion](##) | -- |
+
+<!-- 
+
+
+
+Espaço para organização pessoal u.u
+
+
+
+-->
+
+##
+
+#### 📌 Data Visualization Specialization (Johns Hopkins University)
+
+This specialization will deepen my understanding of how to effectively visualize data for clearer insights and better decision-making. It covers foundational concepts of data visualization, advanced techniques, and specialized methods to create impactful visual narratives from complex datasets. 
+
+This program will equip me with the skills to design visualizations that not only convey information clearly but also tell a compelling story that enhances business decisions. It will be crucial for elevating my data analysis capabilities and helping me communicate findings effectively in later stages of my learning journey.
+
+**Skills developed:**
+- Mastery of the entire data analysis process, including data collection, cleaning, transformation, and visualization
+- Ability to craft insightful visualizations that communicate key trends and patterns
+- Expertise in advanced data visualization techniques and tools
+- Proficiency in designing specialized visualizations tailored to different industries and data types
+- Enhanced storytelling capabilities through effective and impactful data presentation
+
+By completing this specialization, I will gain both the technical expertise and the creative skills necessary to transform complex data into actionable visual insights that inform decision-making and drive business outcomes.
+
+**Specialization Breakdown**
+
+This Specialization represents an integrated course program, consisting of 3 courses plus a capstone project, which are listed individually below:
+
+1. [Foundations of Data Visualization](##)
+2. [Advanced Techniques in Data Visualization](##)
+3. [Specialized Data Visualization Approaches](##)
+ 
+Course | Offered by | Effort | Certificate, if applicable | Status |
+:-- | :--: | :--: | :--: | :--: |
+[Data Visualization Specialization](https://www.coursera.org/specializations/data-visualization-dv) | Johns Hopkins University | ~80h | [Certificate of Completion](##) | -- |
+
+<!-- 
+
+
+
+Espaço para organização pessoal u.u
+
+
+
+-->
+
+##
+
+#### 📌 Tableau Business Intelligence Analyst Professional Certificate (Tableau)
+
+This certification program offers a comprehensive exploration of business analytics and data visualization using Tableau. It is designed to provide hands-on experience with Tableau's suite of tools to help transform complex data into meaningful insights. 
+
+By completing this course, I will gain the skills necessary to analyze data, create visualizations, and communicate insights effectively, all of which are essential for making data-driven decisions in business and marketing contexts.
+
+
+
+**Skills developed:**
+- Proficiency in the data analysis process, including data collection, cleaning, and visualization
+- Advanced knowledge in creating interactive and insightful visualizations using Tableau
+- Ability to perform in-depth data analysis and create dashboards that inform business strategies
+- Expertise in communicating complex data insights to non-technical stakeholders
+- In-depth understanding of business analysis and the role of data visualization in driving decision-making
+
+By completing this certification, I will be well-equipped to leverage Tableau in real-world business contexts, particularly in analytics, marketing performance measurement, and strategic decision-making.
+
+**Specialization Breakdown**
+
+This Specialization represents an integrated course program, consisting of 8 courses plus a capstone project, which are listed individually below:
+
+1. [Introduction to Business Analytics](##)
+2. [Business Analysis Process](##)
+3. [Data Ecosystem](##)
+4. [Introduction to Tableau](##)
+5. [Data Visualization with Tableau](##)
+6. [Advanced Data Visualization with Tableau](##)
+7. [Data Analysis with Tableau](##)
+8. [Communicating Data Insights with Tableau](##)
+ 
+Course | Offered by | Effort | Certificate, if applicable | Status |
+:-- | :--: | :--: | :--: | :--: |
+[Tableau Business Intelligence Analyst Professional Certificate](https://www.coursera.org/professional-certificates/tableau-business-intelligence-analyst?) | Tableau | ~160h | [Certificate of Completion](##) | -- |
+
+<!-- 
+
+
+
+Espaço para organização pessoal u.u
+
+
+
+-->
+
+##
+
+#### 📌 Creating Business Value with Data and Looker (Google Cloud)
+
+This course focuses on leveraging Looker, a powerful data analytics platform, to create business value through effective data analysis and visualization. It is designed to provide a comprehensive understanding of how to extract insights from data and use them to drive strategic decisions. 
+
+The course will help me gain hands-on experience with Looker, allowing me to apply analytical skills to real-world business challenges and improve performance measurement in marketing and other business sectors.
+
+**Skills developed:**
+- Understanding of the data analysis process, from data collection to actionable insights
+- Ability to create interactive dashboards and reports that deliver business value
+- Competence in translating business requirements into data-driven solutions
+
+This course will serve as a strong foundation for more advanced analytics and marketing performance measurement techniques in the later stages of my learning journey.
+
+**Specialization Breakdown**
+
+This Specialization represents an integrated course program, consisting of 3 courses plus a capstone project, which are listed individually below:
+
+1. [Exploring Data Transformation with Google Cloud](https://www.coursera.org/account/accomplishments/certificate/V6JMAUCDW69M)
+2. [Analyzing and Visualizing Data in Looker](https://www.coursera.org/account/accomplishments/certificate/MZ6VCERKX5LN)
+3. [Developing Data Models with LookML](https://www.coursera.org/account/accomplishments/certificate/SD2QW96XAJG8)
+ 
+Course | Offered by | Effort | Certificate, if applicable | Status |
+:-- | :--: | :--: | :--: | :--: |
+[Creating Business Value with Data and Looker]([##](https://www.coursera.org/specializations/creating-business-value-with-data-and-looker)) | Google Cloud | ~12h | [Certificate of Completion](https://www.coursera.org/account/accomplishments/specialization/NFLAPJSLEWF2) | -- |
+
+<!-- 
+
+
+
+Espaço para organização pessoal u.u
+
+
+
+-->
+
+##
+
+#### 📌 Google Analytics Certification - GA4 (Google Skillshop)
+
+This certification program provides in-depth knowledge and hands-on experience with Google Analytics 4 (GA4), Google's latest analytics platform for tracking and measuring user interactions across websites and apps. The course covers key features of GA4, including event-based tracking, enhanced reporting, and advanced analytics techniques. 
+
+It will enable me to effectively utilize GA4 to measure and optimize marketing performance, gain valuable insights into user behavior, and improve decision-making processes for digital marketing campaigns.
+
+**Skills developed:**
+- Proficiency in using Google Analytics 4 for tracking and analyzing user interactions across digital platforms
+- Understanding of GA4’s event-based data model and how it enhances user behavior tracking
+- Knowledge of advanced reporting and data visualization techniques in GA4
+- Ability to interpret GA4 data and generate actionable insights for marketing performance optimization
+- Skills in configuring and customizing GA4 reports to meet business objectives
+- Familiarity with integrating GA4 with other marketing tools to streamline performance measurement
+
+This course will serve as a strong foundation for more advanced analytics and marketing performance measurement techniques in the later stages of my learning journey.
+
+Course | Offered by | Effort | Certificate, if applicable | Status |
+:-- | :--: | :--: | :--: | :--: |
+[Google Analytics Certification](https://skillshop.docebosaas.com/learn/courses/14810/google-analytics-certification) | Google Skillshop | ~6h | [Certificate of Completion](##) | -- |
+
+<!-- 
+
+
+
+Espaço para organização pessoal u.u
+
+
+
+-->
 
 ##
 
