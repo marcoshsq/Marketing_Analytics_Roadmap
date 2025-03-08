@@ -233,7 +233,7 @@ Espaço para organização pessoal u.u
 
 ##
 
-### Section 02 - Advanced Strategies, Practical Application and Social Media Marketing (~180h)
+### Section 02 - Advanced Strategies, Practical Application and Social Media Marketing (~248h)
 
 In this second section, my goal is to refine and expand the knowledge gained in the previous phase by diving deeper into advanced strategies and real-world applications of digital marketing. This section will focus on how to integrate various marketing channels, enhance campaign performance, and leverage strategic insights to achieve measurable results.
 
@@ -351,6 +351,75 @@ Espaço para organização pessoal u.u
 
 -->
 
+##
+
+### Section 03 - Advanced Strategies, Practical Application, and Market Research (~180h)
+
+In this third section, my goal is to build upon the foundational and intermediate knowledge acquired in the previous phases by focusing on advanced strategies, practical applications, and in-depth market research. This section will emphasize how to develop data-driven marketing strategies, analyze consumer behavior, and optimize campaigns to maximize business impact.
+
+I will explore the role of market research in shaping effective marketing strategies, learning how to gather insights, segment audiences, and position brands effectively. Additionally, I will dive deeper into strategic decision-making, competitive analysis, and advanced marketing frameworks that drive sustainable growth.
+
+By completing this section, I will enhance my ability to create and implement high-level marketing strategies, ensuring that campaigns are not only data-driven but also aligned with business objectives and market trends.
+
+The main skills I aim to develop at this stage include:
+
+- ✅ Conducting in-depth market research and consumer analysis
+- ✅ Developing data-driven marketing strategies aligned with business goals
+- ✅ Applying advanced competitive analysis techniques
+- ✅ Optimizing marketing campaigns for long-term business growth
+
+The courses I have selected for this phase are focused on marketing strategy and research, which will provide a structured approach to mastering strategic marketing and market research methodologies.
+
+### Courses
+
+##
+
+#### 📌 Pesquisa de Mercado e Estratégia de Marketing | Market Research and Marketing Strategy - PT/BR (Fundação Instituto de Administração)
+
+This specialization provides an in-depth exploration of market research and strategic marketing management, equipping professionals with the skills needed to analyze consumer behavior, identify market opportunities, and develop data-driven marketing strategies. Through a combination of qualitative and quantitative research methods, this course prepares me to make informed decisions that drive business growth.
+
+By completing this program, I will gain expertise in collecting, analyzing, and interpreting market data, which will be essential for optimizing marketing campaigns and improving customer engagement.
+
+**Skills developed:**
+- Understanding the role of market research in strategic marketing
+- Mastery of qualitative and quantitative research methodologies
+- Ability to analyze and interpret data for marketing decision-making
+- Application of research insights to optimize marketing strategies
+
+**Specialization Breakdown**
+
+This Specialization represents an integrated course program, consisting of 4 courses, which are listed individually below:
+
+1. [Market Research and Strategic Marketing Management](##)
+2. [Market Research with Qualitative Methods](##)
+3. [Market Research with Quantitative Methods](##)
+4. [Analysis of Quantitative Data](##)
+
+Course | Offered by | Effort | Certificate, if applicable | Status |
+:-- | :--: | :--: | :--: | :--: |
+[Pesquisa de Mercado e Estratégia de Marketing Specialization](https://www.coursera.org/specializations/pesquisa-de-mercado-e-estrategia-de-marketing) | Fundação Instituto de Administração | ~120h | [Certificate of Completion](##) | -- |
+
+##
+
+#### 📌 Marketing Strategy (Illinois Institute of Technology)
+
+This advanced course focuses on the strategic aspects of marketing, emphasizing how businesses can develop competitive advantages through well-structured marketing plans. It explores key decision-making processes related to positioning, branding, customer segmentation, and value creation. The course provides a practical and analytical approach to crafting marketing strategies that align with business objectives and market dynamics.
+
+By completing this course, I will refine my ability to think strategically, integrate various marketing elements effectively, and optimize campaigns for long-term success.
+
+**Skills developed:**
+- Advanced understanding of marketing strategy and competitive positioning
+- Customer segmentation and value proposition development
+- Brand management and differentiation strategies
+- Data-driven decision-making for marketing optimization
+
+Course | Offered by | Effort | Certificate, if applicable | Status |
+:-- | :--: | :--: | :--: | :--: |
+[Marketing Strategy](https://www.coursera.org/learn/illinois-tech-marketing-strategy) | Illinois Institute of Technology | ~54h | [Certificate of Completion](##) | -- |
+
+##
+
+
 ---
 
 <div align="right">
@@ -373,10 +442,6 @@ Espaço para organização pessoal u.u
 ---
 
 
-section 3 - Pesquiesa e estrategia
-- (Pesquisa de Mercado e Estratégia de Marketing Specialization)[https://www.coursera.org/specializations/pesquisa-de-mercado-e-estrategia-de-marketing]
-- (Marketing Strategy)[https://www.coursera.org/learn/illinois-tech-marketing-strategy]
-  
 Seção 4 - Marketing Analytics
 Google data analytics aqui
 - (Social Media Analytics Specialization)[https://www.coursera.org/specializations/social-media-analytics]
