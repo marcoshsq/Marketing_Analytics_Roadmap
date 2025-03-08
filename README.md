@@ -104,7 +104,7 @@ Espaço para organização pessoal u.u
 
 ##
 
-### Section 01 - Fundamentals (~40h)
+### Section 01 - Fundamentals (~180h)
 
 In this first section, my goal is to build a solid foundation in Digital Marketing by understanding its strategic role in companies and its impact on decision-making. To achieve this, I will explore the key concepts of the field, the fundamentals that support marketing strategies, and the essential tools used by professionals in the industry.
 
@@ -220,6 +220,117 @@ Course | Offered by | Effort | Certificate, if applicable | Status |
 :-- | :--: | :--: | :--: | :--: |
 [Concepts, Strategies, and Analytics in Performance Marketing and Digital Advertising Specialization](https://www.coursera.org/specializations/digital-advertising-strategy) | University of Colorado Boulder | ~41h | [Certificate of Completion](https://www.coursera.org/account/accomplishments/specialization/Q9FT8A0N9YRN) | ✓ |
 
+<!-- 
+
+
+
+Espaço para organização pessoal u.u
+
+
+
+-->
+
+
+##
+
+### Section 02 - Advanced Strategies, Practical Application and Social Media Marketing (~180h)
+
+In this second section, my goal is to refine and expand the knowledge gained in the previous phase by diving deeper into advanced strategies and real-world applications of digital marketing. This section will focus on how to integrate various marketing channels, enhance campaign performance, and leverage strategic insights to achieve measurable results.
+
+I will explore how different types of media, such as social media, search engines, and programmatic advertising, can be used in a cohesive strategy. This will include a detailed look at how to optimize campaigns, measure success through key performance indicators (KPIs), and make data-driven decisions to improve results over time.
+
+By completing this section, I will be ready to transition from foundational knowledge to executing and managing digital marketing strategies at a higher level, with a focus on optimization, multichannel integration, and achieving ROI.
+
+The main skills I aim to develop at this stage include:
+
+- ✅ Crafting and executing integrated marketing strategies using various digital channels
+- ✅ Advanced knowledge of KPIs and campaign optimization techniques
+- ✅ Ability to measure and analyze digital marketing performance across multiple platforms
+- ✅ Proficiency in optimizing customer engagement, acquisition, and retention through advanced digital marketing tactics
+
+With this deeper knowledge, I’ll be equipped to drive impactful digital marketing campaigns that deliver measurable business outcomes.
+
+### Courses
+
+##
+
+#### 📌 Planejamento Estratégico de Marketing Digital | Digital Marketing Strategic Planning - PT/BR (Fundação Instituto de Administração)
+
+This specialization offers a comprehensive approach to strategic digital marketing planning. It covers key areas such as how to prepare, measure, and optimize digital marketing efforts to achieve business goals. 
+
+I chose this specialization to deepen my understanding of digital marketing strategy and learn how to align marketing initiatives with overall business objectives. This program will enhance my ability to plan and execute data-driven strategies, which will be crucial for the success of future campaigns.
+
+**Skills developed:**
+- Strategic planning for digital marketing, focusing on aligning marketing efforts with business objectives
+- Measuring the effectiveness of marketing strategies through key metrics and data analysis
+- Optimizing digital marketing campaigns for better performance and ROI
+- Hands-on experience with tools for campaign measurement and optimization
+- In-depth knowledge of digital marketing channels and how to leverage them effectively
+
+**Specialization Breakdown**
+
+This Specialization represents an integrated course program, consisting of 4 courses, which are listed individually below:
+
+1. [Introdução ao Marketing Digital](##)
+2. [Preparando o Marketing Digital](##)
+3. [Medindo o Marketing Digital](##)
+4. [Otimizando o Marketing Digital](##)
+
+Course | Offered by | Effort | Certificate, if applicable | Status |
+:-- | :--: | :--: | :--: | :--: |
+[Planejamento Estratégico de Marketing Digital Specialization](https://www.coursera.org/specializations/planejamento-estrategico-de-marketing-digital) | Fundação Instituto de Administração | ~120h | [Certificate of Completion](##) | -- |
+
+##
+
+#### 📌 Digital Marketing (Illinois Institute of Technology)
+
+This advanced course dives deeper into digital marketing by exploring the various types of media and how to effectively use them to create impactful campaigns. It focuses on understanding the nuances of different marketing channels, such as social media, search engines, email, and display advertising. 
+
+This course concludes the foundational phase of my digital marketing education, preparing me to apply advanced strategies and techniques in real-world scenarios. I chose this course to solidify my understanding of the key digital marketing mediums and to enhance my ability to execute integrated campaigns that drive results.
+
+**Skills developed:**
+- Advanced understanding of various digital marketing channels and their specific use cases
+- Insights into crafting multi-channel marketing strategies
+- Practical experience with integrating different types of media into cohesive marketing campaigns
+- Knowledge of advanced tools and strategies for digital advertising and content marketing
+- Ability to measure and optimize the effectiveness of marketing campaigns across different platforms
+
+Course | Offered by | Effort | Certificate, if applicable | Status |
+:-- | :--: | :--: | :--: | :--: |
+[Digital Marketing](https://www.coursera.org/learn/illinois-tech-digital-marketing) | Illinois Institute of Technology | ~64h | [Certificate of Completion](##) | -- |
+
+##
+
+#### 📌 Meta Social Media Marketing Professional Certificate (Meta)
+
+This professional certificate offers a comprehensive exploration of social media marketing, focusing on how to effectively leverage platforms like Facebook, Instagram, and others to create, manage, and optimize marketing campaigns. While my initial focus was on paid media, I decided to shift my attention to social media marketing as well, to broaden my skill set and understand the nuances of organic and paid campaigns across social platforms. 
+
+The course covers essential aspects such as social media strategy, content creation, advertising, and campaign analysis. It will help solidify my expertise in executing social media strategies and measuring their success.
+
+I chose this course to gain in-depth knowledge of social media platforms and develop the necessary skills to manage and optimize digital campaigns across a variety of channels. This certificate will equip me with the tools and insights needed to plan, execute, and assess social media marketing campaigns effectively, with an emphasis on performance and data-driven decision-making.
+
+**Skills developed:**
+- Mastery of social media marketing fundamentals and best practices
+- Expertise in social media management and content creation strategies
+- Advanced understanding of social media advertising and campaign optimization
+- Proficiency in measuring and analyzing social media marketing performance
+- Hands-on experience with Meta's advertising tools and platform capabilities
+
+This course is designed to ensure that I can successfully implement and manage social media campaigns, optimize them for maximum reach and engagement, and measure their impact with precision.
+
+Courses included in the certificate:
+
+- [Introduction to Social Media Marketing](##)
+- [Social Media Management](##)
+- [Fundamentals of Social Media Advertising](##)
+- [Advertising with Meta](##)
+- [Measure and Optimize Social Media Marketing Campaigns](##)
+- [Meta Social Media Marketing Capstone](##)
+
+Course | Offered by | Effort | Certificate, if applicable | Status |
+:-- | :--: | :--: | :--: | :--: |
+[Meta Social Media Marketing Professional Certificate](https://www.coursera.org/professional-certificates/facebook-social-media-marketing) | Meta | ~64h | [Certificate of Completion](##) | -- |
+
 ##
 
 <div align="right">
@@ -261,18 +372,24 @@ Espaço para organização pessoal u.u
 
 ---
 
-Especializações
 
-- (Planejamento Estratégico de Marketing Digital)[https://www.coursera.org/specializations/planejamento-estrategico-de-marketing-digital]
-- (Digital Marketing)[https://www.coursera.org/learn/illinois-tech-digital-marketing]
-- (Meta Social Media Marketing Professional Certificate)[https://www.coursera.org/professional-certificates/facebook-social-media-marketing]
-- (Unilever Digital Marketing Analyst Professional Certificate)[https://www.coursera.org/professional-certificates/unilever-digital-marketing-analyst]
+section 3 - Pesquiesa e estrategia
 - (Pesquisa de Mercado e Estratégia de Marketing Specialization)[https://www.coursera.org/specializations/pesquisa-de-mercado-e-estrategia-de-marketing]
 - (Marketing Strategy)[https://www.coursera.org/learn/illinois-tech-marketing-strategy]
+  
+Seção 4 - Marketing Analytics
+Google data analytics aqui
 - (Social Media Analytics Specialization)[https://www.coursera.org/specializations/social-media-analytics]
-- (Data Science for Marketing Specialization)[https://www.coursera.org/specializations/datascienceformarketing]
+- (Unilever Digital Marketing Analyst Professional Certificate)[https://www.coursera.org/professional-certificates/unilever-digital-marketing-analyst]
+
+
+Seção 5 - BI e Advanced analytics
+
 - (Data Visualization Specialization)[https://www.coursera.org/specializations/data-visualization-dv]
 - (Google Business Intelligence Professional Certificate)[https://www.coursera.org/professional-certificates/google-business-intelligence]
+
+- (Data Science for Marketing Specialization)[https://www.coursera.org/specializations/datascienceformarketing]
+
 
 
 
