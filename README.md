@@ -353,7 +353,7 @@ Espaço para organização pessoal u.u
 
 ##
 
-### Section 03 - Advanced Strategies, Practical Application, and Market Research (~180h)
+### Section 03 - Marketing Strategies and Research (~180h)
 
 In this third section, my goal is to build upon the foundational and intermediate knowledge acquired in the previous phases by focusing on advanced strategies, practical applications, and in-depth market research. This section will emphasize how to develop data-driven marketing strategies, analyze consumer behavior, and optimize campaigns to maximize business impact.
 
@@ -440,6 +440,64 @@ Espaço para organização pessoal u.u
 
 
 ---
+
+##
+
+### Section 04 - Data Analytics for Marketing (~180h)
+
+In this section, my goal is to deepen my understanding of data-driven marketing by focusing on analytics, measurement, and performance optimization. As digital marketing relies heavily on data, mastering analytics is essential for making informed decisions, improving campaign effectiveness, and maximizing ROI.
+
+This phase will cover advanced data analysis techniques, marketing metrics, and reporting tools to help interpret consumer behavior and optimize strategies. Additionally, I will explore how to leverage machine learning and automation to enhance marketing decision-making.
+
+By the end of this section, I will be equipped with the skills needed to extract actionable insights from data, refine targeting strategies, and improve overall marketing performance through data-driven methodologies.
+
+The main skills I aim to develop at this stage include:
+
+- ✅ Proficiency in marketing analytics and performance measurement
+- ✅ Understanding key marketing metrics, attribution models, and reporting techniques
+- ✅ Ability to analyze and interpret consumer behavior through data
+- ✅ Integration of machine learning and automation into marketing strategies
+
+The courses I have selected for this phase are focused on data analytics and marketing intellingence, which will provide a structured approach to mastering data-driven marketing strategy.
+
+### Courses
+
+##
+
+#### 📌 Google Data Analytics Professional Certificate (Google Career Certificates)
+
+This professional certificate provides a comprehensive introduction to data analytics, covering essential tools, techniques, and methodologies for analyzing and interpreting data. The program is designed to develop proficiency in data-driven decision-making, preparing professionals to extract insights and optimize marketing strategies based on data analysis.
+
+Throughout the course, I will gain hands-on experience with industry-standard tools such as SQL, spreadsheets, R programming, and data visualization platforms. The curriculum also emphasizes problem-solving skills and real-world applications in business environments.
+
+**Skills developed:**
+- Understanding of the data analysis process, from data collection to visualization
+- Proficiency in SQL for data extraction and manipulation
+- Data cleaning, transformation, and interpretation using spreadsheets and R
+- Effective data visualization techniques for reporting insights
+- Application of analytical skills to real-world business and marketing problems
+
+This course will serve as a strong foundation for more advanced analytics and marketing performance measurement techniques in the later stages of my learning journey.
+
+**Specialization Breakdown**
+
+This Specialization represents an integrated course program, consisting of 7 courses plus a capstone project, which are listed individually below:
+
+1. [Foundations: Data, Data, Everywhere](https://www.coursera.org/account/accomplishments/certificate/4SYGG2F5RSUG)  
+2. [Ask Questions to Make Data-Driven Decisions](https://www.coursera.org/account/accomplishments/certificate/JR9B6V968GHN)  
+3. [Prepare Data for Exploration](https://www.coursera.org/account/accomplishments/certificate/MER5B6GDCU75)  
+4. [Process Data from Dirty to Clean](https://www.coursera.org/account/accomplishments/verify/SBK228NY59KB)  
+5. [Analyze Data to Answer Questions](https://www.coursera.org/account/accomplishments/certificate/6XYPZX2AQX9X)  
+6. [Share Data Through the Art of Visualization](https://www.coursera.org/account/accomplishments/certificate/5EANPQLHY24Y)  
+7. [Data Analysis with R Programming](https://www.coursera.org/account/accomplishments/certificate/XHB6RGXGZUH9)
+
+My capstone project is available [here](https://github.com/marcoshsq/GoogleDataAnalyticsCapstone), on my github.
+
+This course will serve as a strong foundation for more advanced analytics and marketing performance measurement techniques in the later stages of my learning journey.
+
+Course | Offered by | Effort | Certificate, if applicable | Status |
+:-- | :--: | :--: | :--: | :--: |
+[Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics?) | Google Career Certificates | ~180h | [Certificate of Completion](https://www.coursera.org/account/accomplishments/specialization/P8RY972C7SZ4) | ✓ |
 
 
 Seção 4 - Marketing Analytics
