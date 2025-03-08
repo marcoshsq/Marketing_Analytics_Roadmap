@@ -69,7 +69,21 @@ If you also want to learn Marketing Analytics and BI on your own or expand your 
 
 The curriculum is divided into well-structured sections, each covering essential areas of data science:
 
+A detailed breakdown of each section, including recommended courses, can be found in the repository.
+
 ---
+
+## 📌 How to Use This Curriculum
+
+This roadmap is flexible and can be adapted based on your learning pace and background:
+
+- ✅ Follow it **sequentially** if you're starting from scratch.
+- ✅ Skip sections if you already have knowledge in a particular area.
+- ✅ Combine different resources, projects, and additional readings.
+
+Each module contains curated courses with estimated effort and certification options when available.
+
+##
 
 <div align="right">
 	
@@ -88,16 +102,80 @@ Espaço para organização pessoal u.u
 -->
 
 
----
+##
+
+### Section 01 - Fundamentals (~40h)
+
+In this first section, my goal is to build a solid foundation in Digital Marketing by understanding its strategic role in companies and its impact on decision-making. To achieve this, I will explore the key concepts of the field, the fundamentals that support marketing strategies, and the essential tools used by professionals in the industry.
+
+Additionally, I aim to develop a clear understanding of the responsibilities of a digital marketing analyst. This includes grasping the main KPIs in the field, the necessary analytical and technical skills, and the practical application of this knowledge to optimize campaigns, segment audiences, and effectively measure results.
+
+The focus is on enhancing competencies such as data analysis, performance measurement, the use of digital marketing platforms, and metric-driven decision-making, ensuring a strategic and results-oriented approach.
+
+The main skills I aim to acquire at this stage include:
+
+- ✅ A clear understanding of what Marketing is and its strategic importance in business
+- ✅ Fundamental concepts of Data Science and its impact across various industries
+- ✅ Proficiency with essential tools for data analysis and manipulation
+
+This structured approach will help me build a strong foundation, integrating marketing and data-driven decision-making effectively.
+
+### Courses
 
 ##
 
-### Section 01 - Fundamentals of Digital Marketing and E-commerce (~137h)
+#### 📌 Introduction to Marketing (University of Pennsylvania)
+This course provides a clear introduction to what marketing is, why it is essential for businesses, and how it influences consumer behavior and decision-making. I chose this course to establish a strong conceptual foundation before exploring more advanced marketing strategies and analytical techniques.
+
+Skills developed:
+- Understanding the core principles of marketing and its role in business strategy
+- Exploring consumer behavior and decision-making processes
+- Introduction to key marketing concepts such as segmentation, positioning, and branding
 
 Course | Offered by | Effort | Certificate, if applicable | Status |
 :-- | :--: | :--: | :--: | :--: |
-**[--](##)** | Placeholder | ~00h | -- | -- |
+[Introduction to Marketing](https://www.coursera.org/learn/wharton-marketing?specialization=wharton-business-foundations) | University of Pennsylvania | ~10h | [Certificate of Completion](https://www.coursera.org/account/accomplishments/verify/SF2EJMBAXEYW) | ✓ |
 
+#### 📌 Google Digital Marketing & E-commerce Certificate (Google Career Certificates)
+
+This comprehensive certificate program provides a deep dive into the essentials of digital marketing and e-commerce, covering a broad range of topics that are critical for building and optimizing online businesses. It explores digital marketing strategies, customer engagement techniques, e-commerce platform management, and the tools necessary to execute successful marketing campaigns. I chose this program to develop a hands-on, practical understanding of digital marketing that can be applied to real-world business scenarios.
+
+Skills developed:
+
+- Mastery of core digital marketing concepts, including customer acquisition and engagement strategies
+- Practical application of digital marketing tools and techniques, such as SEO, SEM, and email marketing
+- Knowledge of building and managing e-commerce stores, from product launch to customer retention
+- Proficiency in analyzing marketing data to measure success and improve campaigns
+- Understanding how to develop customer loyalty and improve long-term business relationships
+
+Course Breakdown:
+
+This certificate represents an integrated course program, consisting of 7 courses, which are listed below:
+
+1. [Foundations of Digital Marketing and E-commerce](##)
+2. [Attract and Engage Customers with Digital Marketing](##)
+3. [From Likes to Leads: Interact with Customers Online](##)
+4. [Think Outside the Inbox: Email Marketing](##)
+5. [Assess for Success: Marketing Analytics and Measurement](##)
+6. [Make the Sale: Build, Launch, and Manage E-commerce Stores](##)
+7. [Satisfaction Guaranteed: Develop Customer Loyalty Online](##)
+
+Course | Offered by | Effort | Certificate, if applicable | Status |
+:-- | :--: | :--: | :--: | :--: |
+[Google Digital Marketing & E-commerce Certificate](https://www.coursera.org/professional-certificates/google-digital-marketing-ecommerce) | Google Career Certificates | ~120h | [Certificate of Completion](##) | -- |
+
+#### 📌 The Data Scientist's Toolbox (Johns Hopkins University)
+
+This course is essential for gaining familiarity with the fundamental tools used by data scientists. It introduces basic programming concepts, version control, and project organization—essential elements for working with data in a structured and efficient way.
+
+Skills developed:
+- Introduction to R and RStudio
+- Basic concepts of Git and GitHub for version control
+- Insights into data science workflows
+
+Course | Offered by | Effort | Certificate, if applicable | Status |
+:-- | :--: | :--: | :--: | :--: |
+[The Data Scientist's Toolbox](https://www.coursera.org/learn/data-scientists-tools?specialization=jhu-data-science) | Johns Hopkins University | ~18h | [Certificate of Completion](https://www.coursera.org/account/accomplishments/verify/P6GUDTMJCQ6U) | ✓ |
 
 ##
 
@@ -118,6 +196,27 @@ Espaço para organização pessoal u.u
 
 
 -->
+
+---
+
+<div align="right">
+	
+[To the top](https://github.com/marcoshsq/The_Self-taught_Data_Scientist/tree/main#content-summary)
+	
+</div>
+
+<!-- 
+
+
+
+Espaço para organização pessoal u.u
+
+
+
+-->
+
+
+---
 
 Especializações
 
