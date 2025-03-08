@@ -443,7 +443,7 @@ Espaço para organização pessoal u.u
 
 ##
 
-### Section 04 - Data Analytics for Marketing (~180h)
+### Section 04 - Data Analytics for Marketing (~300h)
 
 In this section, my goal is to deepen my understanding of data-driven marketing by focusing on analytics, measurement, and performance optimization. As digital marketing relies heavily on data, mastering analytics is essential for making informed decisions, improving campaign effectiveness, and maximizing ROI.
 
@@ -499,20 +499,141 @@ Course | Offered by | Effort | Certificate, if applicable | Status |
 :-- | :--: | :--: | :--: | :--: |
 [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics?) | Google Career Certificates | ~180h | [Certificate of Completion](https://www.coursera.org/account/accomplishments/specialization/P8RY972C7SZ4) | ✓ |
 
+##
 
-Seção 4 - Marketing Analytics
-Google data analytics aqui
-- (Social Media Analytics Specialization)[https://www.coursera.org/specializations/social-media-analytics]
-- (Unilever Digital Marketing Analyst Professional Certificate)[https://www.coursera.org/professional-certificates/unilever-digital-marketing-analyst]
+#### 📌 Unilever Digital Marketing Analyst Professional Certificate (Unilever Career Certificates)
 
+This professional certificate provides a specialized focus on data-driven digital marketing, equipping professionals with the analytical skills necessary to measure, optimize, and report on campaign performance. The program emphasizes customer insights, marketing channel effectiveness, and the use of advanced analytical tools to drive marketing success.
+
+Throughout this certification, I will develop expertise in analyzing marketing data, creating performance reports, and leveraging key digital marketing metrics to improve strategy and execution.
+
+**Skills developed:**
+- Understanding customer behavior and digital marketing channels
+- Mastery of marketing measurement and analytics
+- Campaign performance tracking and visualization techniques
+- Proficiency with advanced tools for digital marketing analytics
+
+This program will enhance my ability to evaluate marketing strategies with a data-driven approach, ensuring continuous optimization and improved return on investment (ROI).
+
+**Specialization Breakdown**
+
+This Specialization represents an integrated course program, consisting of 4 courses, which are listed individually below:
+
+1. [Customer Understanding and Digital Marketing Channels](##)
+2. [Measurement and Analysis](##)
+3. [Campaign Performance Reporting, Visualization, & Improvement](##)
+4. [Advanced Tools for Digital Marketing Analytics](##)
+
+Course | Offered by | Effort | Certificate, if applicable | Status |
+:-- | :--: | :--: | :--: | :--: |
+[Unilever Digital Marketing Analyst Professional Certificate](https://www.coursera.org/professional-certificates/unilever-digital-marketing-analyst) | Unilever Career Certificates | ~80h | [Certificate of Completion](##) | -- |
+
+##
+
+#### 📌 Social Media Analytics Specialization (Johns Hopkins University)
+
+This specialization focuses on the analytical side of social media, exploring how data can be leveraged to understand audience behavior, measure influence, and optimize digital strategies. The program combines network analysis, AI applications, and visualization techniques to extract meaningful insights from social media interactions.
+
+Throughout this specialization, I will gain expertise in analyzing social networks, identifying influential users, and using AI-driven analytics to enhance social media marketing strategies.
+
+**Skills developed:**
+- Social network analysis and influence measurement
+- AI applications in social media analytics
+- Data visualization for network insights
+- Persuasion and online influence strategies
+
+**Specialization Breakdown**
+
+This Specialization represents an integrated course program, consisting of 4 courses, which are listed individually below:
+
+1. [Social Network Analysis](##)
+2. [Online Influence and Persuasion](##)
+3. [Network Visualization and Intervention](##)
+4. [Artificial Intelligence in Social Media Analytics](##)
+
+This program will enhance my ability to evaluate marketing strategies with a data-driven approach, ensuring continuous optimization and improved return on investment (ROI).
+
+
+Course | Offered by | Effort | Certificate, if applicable | Status |
+:-- | :--: | :--: | :--: | :--: |
+[Social Media Analytics Specialization](https://www.coursera.org/specializations/social-media-analytics) | Johns Hopkins University | ~60h | [Certificate of Completion](##) | -- |
+
+##
+
+#### 📌 Data Science for Marketing Specialization (University of Colorado Boulder)
+
+This specialization is designed for marketing professionals looking to leverage data science techniques to improve decision-making. Covering key areas such as customer analytics, regression modeling, machine learning, and time-series analysis, this program provides a strong foundation in statistical modeling and predictive analytics for marketing applications.
+
+Throughout this specialization, I will develop the ability to interpret customer data, forecast trends, and make data-driven marketing decisions to optimize engagement and business profitability.
+
+**Skills developed:**
+- Customer data analytics and segmentation
+- Regression modeling for marketing insights
+- Machine learning applications in marketing strategies
+- Time-series analysis and decision-making
+
+**Specialization Breakdown**
+
+This Specialization represents an integrated course program, consisting of 4 courses, which are listed individually below:
+
+1. [Customer Data Analytics for Marketers](##)
+2. [Regression Modeling for Marketers](##)
+3. [Machine Learning for Marketers](##)
+4. [Time, Change, and Decisions for Marketing](##)
+
+This program will enhance my ability to evaluate marketing strategies with a data-driven approach, ensuring continuous optimization and improved return on investment (ROI).
+
+
+Course | Offered by | Effort | Certificate, if applicable | Status |
+:-- | :--: | :--: | :--: | :--: |
+[Data Science for Marketing Specialization](https://www.coursera.org/specializations/datascienceformarketing) | University of Colorado Boulder | ~80h | [Certificate of Completion](##) | -- |
+
+##
+
+---
+
+<div align="right">
+	
+[To the top](https://github.com/marcoshsq/The_Self-taught_Data_Scientist/tree/main#content-summary)
+	
+</div>
+
+<!-- 
+
+
+
+Espaço para organização pessoal u.u
+
+
+
+-->
+
+
+---
+
+##
+
+### Section 05 - Business Intelligence, Data Visualization and Reporting Technologies (~xxh)
+
+In this final section, my focus is on mastering Business Intelligence (BI), data visualization, and reporting technologies. This phase aims to refine my ability to analyze, visualize, and communicate data effectively, turning raw information into actionable business insights.
+
+I will explore industry-standard BI tools and platforms, including Tableau, Looker, and Google Analytics 4 (GA4), to develop a well-rounded skill set in data visualization and dashboard reporting. Additionally, I will gain expertise in structuring and optimizing data workflows to support business decision-making.
+
+By completing this section, I will be equipped to build insightful reports, create dynamic dashboards, and leverage BI technologies to drive data-driven strategies in various business contexts.
+
+Key skills developed:
+
+- ✅ Proficiency in data visualization tools like Tableau, Looker, and Google Data Studio
+- ✅ Advanced dashboard creation and reporting techniques
+- ✅ Business Intelligence strategy and data workflow optimization
+- ✅ GA4 implementation and digital analytics for business insights
+
+By mastering these tools and methodologies, I will be able to build compelling data stories, enhance business reporting capabilities, and support strategic decision-making through data-driven insights.
 
 Seção 5 - BI e Advanced analytics
 
 - (Data Visualization Specialization)[https://www.coursera.org/specializations/data-visualization-dv]
 - (Google Business Intelligence Professional Certificate)[https://www.coursera.org/professional-certificates/google-business-intelligence]
-
-- (Data Science for Marketing Specialization)[https://www.coursera.org/specializations/datascienceformarketing]
-
 
 
 
