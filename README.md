@@ -69,6 +69,12 @@ If you also want to learn Marketing Analytics and BI on your own or expand your 
 
 The curriculum is divided into well-structured sections, each covering essential areas of data science:
 
+1. **Fundamentals (~180h)**
+2. **Advanced Strategies, Practical Application and Social Media Marketing (~248h)**
+3. **Marketing Strategies and Research (~180h)**
+4. **Data Analytics for Marketing (~300h)**
+5. **Business Intelligence, Data Visualization and Reporting Technologies (~300h)**
+
 A detailed breakdown of each section, including recommended courses, can be found in the repository.
 
 ---
@@ -958,18 +964,20 @@ Espaço para organização pessoal u.u
 
 If you're looking for deeper insights, consider these additional resources:
 
-### **Mathematics**
-- **[The Elements of Statistical Learning](https://shre.ink/lDR)** - Hastie, Tibshirani, Friedman.
-- **[Introduction to Statistical Learning](https://hastie.su.domains/ISLR2/ISLRv2_website.pdf)** - James, Witten, Hastie, Tibshirani.
-- **[Bayesian Statistics](https://shre.ink/lDX)** - Peter M. Lee.
+### **Marketing e Estratégia**
+- **[Marketing Management](https://www.amazon.com.br/dp/0134072820)** - Philip Kotler, Kevin Lane Keller  
+- **[Contagious: How to Build Word of Mouth in the Digital Age](https://www.amazon.com.br/dp/1451686579)** - Jonah Berger  
+- **[Blue Ocean Strategy](https://www.amazon.com.br/dp/1591396190)** - W. Chan Kim, Renée Mauborgne  
 
-### **Machine Learning & AI**
-- **[Artificial Intelligence: A Modern Approach](https://www.amazon.com.br/dp/0136042597/)** - Stuart Russell.
-- **[Deep Learning Papers Reading Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)** - Collection of AI research papers.
+### **Marketing Analytics**
+- **[Marketing Analytics: A Practical Guide to Real Marketing Science](https://www.amazon.com.br/dp/1118887440)** - Mike Grigsby  
+- **[Data-Driven Marketing: The 15 Metrics Everyone in Marketing Should Know](https://www.amazon.com.br/dp/1118887793)** - Mark Jeffery  
+- **[Marketing Data Science: Modeling Techniques in Predictive Analytics with R and Python](https://www.amazon.com.br/dp/0134777602)** - Thomas W. Miller  
+- **[Killer Marketing Strategies: The 7 Customer-Centric Strategies for Marketing Success](https://www.amazon.com.br/dp/0136121699)** - Neil Patel, Bronson Taylor  
 
-### **Programming & Databases**
-- **[SQL for Smarties](https://shre.ink/lD9)** - Joe Celko.
-- **[The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)** - MIT.
+### **Comportamento do Consumidor**
+- **[Consumer Behavior: Buying, Having, and Being](https://www.amazon.com.br/dp/0134129936)** - Michael R. Solomon  
+- **[Influence: The Psychology of Persuasion](https://www.amazon.com.br/dp/006124189X)** - Robert B. Cialdini  
 
 These resources cover a wide range of topics from foundational mathematics and statistical theory to advanced machine learning and artificial intelligence.
 
