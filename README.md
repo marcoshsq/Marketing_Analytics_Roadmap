@@ -896,7 +896,7 @@ This Specialization represents an integrated course program, consisting of 3 cou
  
 Course | Offered by | Effort | Certificate, if applicable | Status |
 :-- | :--: | :--: | :--: | :--: |
-[Creating Business Value with Data and Looker]([##](https://www.coursera.org/specializations/creating-business-value-with-data-and-looker)) | Google Cloud | ~12h | [Certificate of Completion](https://www.coursera.org/account/accomplishments/specialization/NFLAPJSLEWF2) | -- |
+[Creating Business Value with Data and Looker]([##](https://www.coursera.org/specializations/creating-business-value-with-data-and-looker)) | Google Cloud | ~12h | [Certificate of Completion](https://www.coursera.org/account/accomplishments/specialization/NFLAPJSLEWF2) | ✓ |
 
 <!-- 
 
