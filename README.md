@@ -257,6 +257,14 @@ Espaço para organização pessoal u.u
 
 -->
 
+---
+
+<div align="right">
+	
+🔝 [Back to top](#📊-digital-marketing-analytics--business-intelligence-bi--self-taught-program)
+	
+</div>
+
 ##
 
 ### Section 02 - Advanced Strategies, Practical Application and Social Media Marketing (~248h)
@@ -387,15 +395,13 @@ Course | Offered by | Effort | Certificate, if applicable | Status |
 :-- | :--: | :--: | :--: | :--: |
 [Meta Social Media Marketing Professional Certificate](https://www.coursera.org/professional-certificates/facebook-social-media-marketing) | Meta | ~64h | [Certificate of Completion](##) | -- |
 
-##
+---
 
 <div align="right">
 	
-[To the top](https://github.com/marcoshsq/The_Self-taught_Data_Scientist/tree/main#content-summary)
+🔝 [Back to top](#📊-digital-marketing-analytics--business-intelligence-bi--self-taught-program)
 	
 </div>
-
-##
 
 <!-- 
 
@@ -493,14 +499,11 @@ Course | Offered by | Effort | Certificate, if applicable | Status |
 :-- | :--: | :--: | :--: | :--: |
 [Marketing Strategy](https://www.coursera.org/learn/illinois-tech-marketing-strategy) | Illinois Institute of Technology | ~54h | [Certificate of Completion](##) | -- |
 
-##
-
-
 ---
 
 <div align="right">
 	
-[To the top](https://github.com/marcoshsq/The_Self-taught_Data_Scientist/tree/main#content-summary)
+🔝 [Back to top](#📊-digital-marketing-analytics--business-intelligence-bi--self-taught-program)
 	
 </div>
 
@@ -513,9 +516,6 @@ Espaço para organização pessoal u.u
 
 
 -->
-
-
----
 
 ##
 
@@ -704,13 +704,11 @@ Course | Offered by | Effort | Certificate, if applicable | Status |
 :-- | :--: | :--: | :--: | :--: |
 [Data Science for Marketing Specialization](https://www.coursera.org/specializations/datascienceformarketing) | University of Colorado Boulder | ~80h | [Certificate of Completion](##) | -- |
 
-##
-
 ---
 
 <div align="right">
 	
-[To the top](https://github.com/marcoshsq/The_Self-taught_Data_Scientist/tree/main#content-summary)
+🔝 [Back to top](#📊-digital-marketing-analytics--business-intelligence-bi--self-taught-program)
 	
 </div>
 
@@ -724,8 +722,6 @@ Espaço para organização pessoal u.u
 
 -->
 
-
----
 
 ##
 
@@ -952,11 +948,11 @@ Espaço para organização pessoal u.u
 
 -->
 
-##
+---
 
 <div align="right">
 	
-[To the top](https://github.com/marcoshsq/The_Self-taught_Data_Scientist/tree/main#content-summary)
+🔝 [Back to top](#📊-digital-marketing-analytics--business-intelligence-bi--self-taught-program)
 	
 </div>
 
@@ -993,11 +989,11 @@ If you're looking for deeper insights, consider these additional resources:
 
 These resources cover a wide range of topics from foundational mathematics and statistical theory to advanced machine learning and artificial intelligence.
 
-##
+---
 
 <div align="right">
 	
-[To the top](https://github.com/marcoshsq/The_Self-taught_Data_Scientist/tree/main#content-summary)
+🔝 [Back to top](#📊-digital-marketing-analytics--business-intelligence-bi--self-taught-program)
 	
 </div>
 
@@ -1029,12 +1025,13 @@ Espaço para organização pessoal u.u
 
 -->
 
+---
+
 <div align="right">
 	
-[To the top](https://github.com/marcoshsq/The_Self-taught_Data_Scientist/tree/main#content-summary)
+🔝 [Back to top](#📊-digital-marketing-analytics--business-intelligence-bi--self-taught-program)
 	
 </div>
-
 ---
 
 <p align="center">
