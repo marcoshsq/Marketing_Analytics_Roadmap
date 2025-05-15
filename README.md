@@ -4,98 +4,110 @@
 
 <p align="center">
   <a href="https://github.com/marcoshsq/The_Self-Taught_Marketing_Analyst">
-    <img src="https://wallpapers.com/images/hd/marketing-light-blue-artwork-6ha8spypwyb8z6m8.jpg" alt="Developer Roadmap" width="" height="">
+    <img src="https://wallpapers.com/images/hd/marketing-light-blue-artwork-6ha8spypwyb8z6m8.jpg" alt="Digital Marketing Banner" width="100%" />
   </a>
 </p>
 
-<h2 align="center">📊 Digital Marketing Analytics & Business Intelligence (BI) Self-Taught Program</h2>
+<h2 align="center">📊 Digital Marketing Analytics & Business Intelligence (BI) <br> Self-Taught Program</h2>
+
+<p align="center">A structured and free roadmap to master digital marketing, analytics, and BI independently</p>
 
 ---
 
-<!--Fim da seção cabeçalho.-->
- 
-## 📌 Summary
+## 🧭 Table of Contents
 
-- [About](#about)
-- [Learning Goals](#learning-goals)
-- [Curriculum Overview](#curriculum-overview)
-- [How to Use This Curriculum](#how-to-use-this-curriculum)
-- [Extra Bibliography](#extra-bibliography)
-- [References](#references)
-- [Notes and Clarifications](#notes-and-clarifications)
+- [🧠 About](#-about)
+- [🎯 Learning Goals](#-learning-goals)
+- [📚 Curriculum Overview](#-curriculum-overview)
+- [🛠️ How to Use This Curriculum](#-how-to-use-this-curriculum)
+- [📖 Extra Bibliography](#-extra-bibliography)
+- [🔗 References](#-references)
+- [📝 Notes and Clarifications](#-notes-and-clarifications)
 
 ---
 
-## 🧠 About 
+## 🧠 About
 
-This self-taught Marketing Analytics and BI curriculum is a structured roadmap that I created to guide myself in learning this field independently and for free. My motivation for developing this material came from my desire to deepen my knowledge in digital marketing, data-driven decision-making, and business intelligence, making the most of the available online resources.
+This self-taught roadmap is designed to guide my journey in Digital Marketing, Analytics, and Business Intelligence. My goal is to combine marketing strategy with data-driven decision-making using the best free resources available online.
 
-The program covers everything from fundamentals to advanced topics, including marketing strategy, consumer behavior, analytics, data visualization, performance measurement, and predictive modeling. To achieve this, I selected high-quality courses and learning materials that are freely accessible.
+The program spans from marketing foundations to advanced analytics, covering:
 
-If you also want to learn Marketing Analytics and BI on your own or expand your knowledge in the field, this roadmap can serve as a solid foundation for your journey.
+- Digital strategy, performance marketing, and consumer behavior  
+- Analytics, A/B testing, and marketing KPIs  
+- Business Intelligence, dashboard tools, and automation  
+- Predictive modeling and personalization using data  
+
+> 🚀 If you're also passionate about marketing and data, this roadmap can be your compass.
 
 ---
 
 ## 🎯 Learning Goals
 
-1️⃣ **Marketing Fundamentals & Strategy**  
-   - Digital marketing principles, customer journey, and conversion funnels.  
-   - Market research, consumer behavior, and competitive analysis.  
-   - Branding, content marketing, and social media strategies.  
+### 1️⃣ Marketing Fundamentals & Strategy
+- Principles of digital marketing, customer journey, and funnels  
+- Consumer behavior, market research, and branding  
+- Social media and content marketing strategies  
 
-2️⃣ **Data Analytics for Marketing**  
-   - Web analytics, tracking, and attribution modeling.  
-   - Marketing performance measurement (KPIs, ROI, ROAS, CLV).  
-   - Experimentation and A/B testing for campaign optimization.  
+### 2️⃣ Data Analytics for Marketing
+- Web analytics, tracking, and attribution modeling  
+- KPIs, ROI, ROAS, CLV, and performance indicators  
+- Experiment design and A/B testing for optimization  
 
-3️⃣ **Business Intelligence & Data Visualization**  
-   - Power BI, Tableau, and Looker for marketing dashboards.  
-   - Storytelling with data: translating insights into business strategies.  
-   - Automating reporting and real-time marketing analytics.  
+### 3️⃣ Business Intelligence & Visualization
+- Dashboards using Power BI, Tableau, and Looker  
+- Data storytelling and insight-driven strategy  
+- Automating reports and real-time analytics  
 
-4️⃣ **Data-Driven Decision Making & Predictive Analytics**  
-   - SQL for marketing data extraction and transformation.  
-   - Customer segmentation and personalization using data.  
-   - Predictive modeling for churn, LTV, and lead scoring.  
+### 4️⃣ Predictive Analytics & Decision Making
+- SQL for data extraction and transformation  
+- Segmentation, personalization, and lead scoring  
+- Predictive models for churn, CLV, and conversions  
 
-5️⃣ **Marketing Technology & Automation**  
-   - CRM systems, marketing automation, and email marketing.  
-   - Google Analytics, Google Tag Manager, and UTM tracking.  
-   - AI and machine learning applications in marketing (chatbots, recommendation systems).  
+### 5️⃣ MarTech & Automation
+- CRM, email marketing, and marketing automation  
+- Google Analytics, GTM, UTM tagging  
+- AI in marketing: chatbots, recommendations, LLMs  
 
 ---
 
 ## 📚 Curriculum Overview
 
-The curriculum is divided into well-structured sections, each covering essential areas of data science:
+The curriculum is structured in stages:
 
-1. **Fundamentals (~180h)**
-2. **Advanced Strategies, Practical Application and Social Media Marketing (~248h)**
-3. **Marketing Strategies and Research (~180h)**
-4. **Data Analytics for Marketing (~300h)**
-5. **Business Intelligence, Data Visualization and Reporting Technologies (~300h)**
+| Section | Description | Estimated Hours |
+|--------|-------------|-----------------|
+| **01. Fundamentals** | Core marketing concepts, KPIs, and analytics foundations | ~180h |
+| **02. Practical Strategies & Social Media** | Real-world applications, tools, and growth strategies | ~248h |
+| **03. Strategy & Research** | Market research, branding, behavioral insights | ~180h |
+| **04. Data Analytics for Marketing** | Analytical skills, web analytics, and KPIs | ~300h |
+| **05. BI, Visualization & Reporting** | Dashboards, storytelling, data infrastructure | ~300h |
 
-A detailed breakdown of each section, including recommended courses, can be found in the repository.
+For a full breakdown of topics and course links, check each section inside the repository.
 
 ---
 
-## 📌 How to Use This Curriculum
+## 🛠️ How to Use This Curriculum
 
-This roadmap is flexible and can be adapted based on your learning pace and background:
+This curriculum is modular and flexible:
 
-- ✅ Follow it **sequentially** if you're starting from scratch.
-- ✅ Skip sections if you already have knowledge in a particular area.
-- ✅ Combine different resources, projects, and additional readings.
+- 🟢 **Start from the beginning** if you're new to the topic  
+- 🟡 **Skip or adapt** based on your prior knowledge  
+- 🧩 **Mix and match** with your own projects and readings  
 
-Each module contains curated courses with estimated effort and certification options when available.
+Each module contains:
 
-##
+- Curated high-quality free courses  
+- Estimated hours for time management  
+- Optional certifications (e.g., Google, HubSpot, Meta)
+
+---
 
 <div align="right">
 	
-[To the top](https://github.com/marcoshsq/The_Self-taught_Data_Scientist/tree/main#content-summary)
+🔝 [Back to top](#📊-digital-marketing-analytics--business-intelligence-bi--self-taught-program)
 	
 </div>
+
 
 <!-- 
 
