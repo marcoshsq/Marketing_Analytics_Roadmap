@@ -948,6 +948,37 @@ Espaço para organização pessoal u.u
 
 -->
 
+##
+
+#### 📌 HubSpot Academy Certifications
+
+These certifications from HubSpot Academy provide foundational and practical knowledge in inbound marketing, CRM platforms, and sales automation. They are ideal for marketing analysts and professionals working with inbound strategies, customer engagement, and marketing technologies.
+
+**Skills Developed:**
+- Inbound methodology and funnel design
+- CRM usage for marketing and sales alignment
+- Email marketing, lead nurturing, and automation
+- Contact management and performance tracking in HubSpot
+- Sales pipeline management and automation
+
+| Course                                                                               |    Offered by   | Effort |                       Certificate, if applicable                      | Status |
+| :----------------------------------------------------------------------------------- | :-------------: | :----: | :-------------------------------------------------------------------: | :----: |
+| [HubSpot Marketing Software](https://academy.hubspot.com/courses/marketing-software) | HubSpot Academy |  \~5h  | [Certificate](https://academy.hubspot.com/courses/marketing-software) |   --   |
+| [Inbound](https://academy.hubspot.com/courses/inbound)                               | HubSpot Academy |  \~3h  |       [Certificate](https://academy.hubspot.com/courses/inbound)      |   --   |
+| [Inbound Marketing](https://academy.hubspot.com/courses/inbound-marketing)           | HubSpot Academy |  \~5h  |  [Certificate](https://academy.hubspot.com/courses/inbound-marketing) |   --   |
+| [Sales Hub Software](https://academy.hubspot.com/courses/sales-software)             | HubSpot Academy |  \~2h  |   [Certificate](https://academy.hubspot.com/courses/sales-software)   |   --   |
+
+
+<!-- 
+
+
+
+Espaço para organização pessoal u.u
+
+
+
+-->
+
 ---
 
 <div align="right">
