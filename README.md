@@ -16,13 +16,19 @@
 
 ## 🧭 Table of Contents
 
-- [🧠 About](#-about)
-- [🎯 Learning Goals](#-learning-goals)
-- [📚 Curriculum Overview](#-curriculum-overview)
-- [🛠️ How to Use This Curriculum](#-how-to-use-this-curriculum)
-- [📖 Extra Bibliography](#-extra-bibliography)
-- [🔗 References](#-references)
-- [📝 Notes and Clarifications](#-notes-and-clarifications)
+* [🧠 About](#-about)
+* [🎯 Learning Goals](#-learning-goals)
+* [📚 Curriculum Overview](#-curriculum-overview)
+* [🛠️ How to Use This Curriculum](#️-how-to-use-this-curriculum)
+* 📘 **Sections**
+  * [Section 01 - Fundamentals (\~180h)](#section-01---fundamentals-180h)
+  * [Section 02 - Advanced Strategies, Practical Application and Social Media Marketing (\~248h)](#section-02---advanced-strategies-practical-application-and-social-media-marketing-248h)
+  * [Section 03 - Marketing Strategies and Research (\~180h)](#section-03---marketing-strategies-and-research-180h)
+  * [Section 04 - Data Analytics for Marketing (\~300h)](#section-04---data-analytics-for-marketing-300h)
+  * [Section 05 - Business Intelligence, Data Visualization and Reporting Technologies (\~300h)](#section-05---business-intelligence-data-visualization-and-reporting-technologies-300h)
+* [📖 Extra Bibliography](#-extra-bibliography)
+* [🔗 References](#-references)
+* [📝 Notes and Clarifications](#-notes-and-clarifications)
 
 ---
 
