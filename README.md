@@ -1032,7 +1032,6 @@ Espaço para organização pessoal u.u
 🔝 [Back to top](#📊-digital-marketing-analytics--business-intelligence-bi--self-taught-program)
 	
 </div>
----
 
 <p align="center">
 	<a href="https://github.com/marcoshsq/Curriculo_Autodidata_Dados">
