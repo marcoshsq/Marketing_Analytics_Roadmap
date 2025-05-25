@@ -881,6 +881,85 @@ Espaço para organização pessoal u.u
 
 ##
 
+#### 📌 Graphic Design Specialization (CALARTS)
+
+Graphic design is all around us, in a myriad of forms, both on screen and in print, yet it is always made up of images and words to create a communication goal. This four-course sequence exposes students to the fundamental skills required to make sophisticated graphic design: process, historical context, and communication through image-making and typography. 
+
+By completing this course, I will gain the skills needed to not only analyze data, create visualizations, and communicate insights effectively, but to make those reports look beautiful.
+
+
+**Skills developed:**
+- Gain the fundamental skills needed to be a graphic designer
+- Communicate through image-making and typography
+- Learn everything you need to know to work in interface design, motion graphics, and editorial design
+
+By completing this certification, I will be well-equipped to leverage Tableau in real-world business contexts, particularly in analytics, marketing performance measurement, and strategic decision-making.
+
+**Specialization Breakdown**
+
+This Specialization represents an integrated course program, consisting of 5 courses plus a capstone project, which are listed individually below:
+
+1. [Fundamentals of Graphic Design](##)
+2. [Introduction to Typography](##)
+3. [Introduction to Imagemaking](##)
+4. [Ideas from the History of Graphic Design](##)
+5. [Brand New Brand](##)
+ 
+Course | Offered by | Effort | Certificate, if applicable | Status |
+:-- | :--: | :--: | :--: | :--: |
+[Graphic Design Specialization](https://www.coursera.org/specializations/graphic-design) | CALARTS | ~60h | [Certificate of Completion](##) | -- |
+
+<!-- 
+
+
+
+Espaço para organização pessoal u.u
+
+
+
+-->
+
+##
+
+#### 📌 User Experience Research and Design Specialization (Michigan)
+
+Integrate UX Research and UX Design to create great products by understanding user needs, rapidly prototyping, and evaluating design concepts. The reason I chose this course is to complement my Design knowledge and be able to develop better reports and visualizations!
+
+Upon completion of this course, I will have the skills needed to create visualizations and communicate insights effectively with the end user as the focus.
+
+**Skills developed:**
+- Prototyping, Conceptual Design, User Interface (UI)
+- Design Research, Sampling (Statistics), Ideation
+- Wireframing, Qualitative Research, User Experience
+- UI/UX Research, User Experience Design, A/B Testing
+
+**Specialization Breakdown**
+
+This Specialization represents an integrated course program, consisting of 6 courses plus a capstone project, which are listed individually below:
+
+1. [Introduction to User Experience Principles and Processes](##)
+2. [Understanding User Needs](##)
+3. [Evaluating Designs with Users](##)
+4. [UX Design: From Concept to Prototype](##)
+5. [UX Research at Scale: Surveys, Analytics, Online Testing](##)
+6. [UX (User Experience) Capstone](##)
+ 
+Course | Offered by | Effort | Certificate, if applicable | Status |
+:-- | :--: | :--: | :--: | :--: |
+[User Experience Research and Design Specialization](https://www.coursera.org/specializations/michiganux) | University of Michigan | ~80h | [Certificate of Completion](##) | -- |
+
+<!-- 
+
+
+
+Espaço para organização pessoal u.u
+
+
+
+-->
+
+##
+
 #### 📌 Creating Business Value with Data and Looker (Google Cloud)
 
 This course focuses on leveraging Looker, a powerful data analytics platform, to create business value through effective data analysis and visualization. It is designed to provide a comprehensive understanding of how to extract insights from data and use them to drive strategic decisions. 
