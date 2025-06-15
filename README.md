@@ -3,7 +3,7 @@
 <!--Cabeçalho da página. -->
 
 <p align="center">
-  <a href="https://github.com/marcoshsq/The_Self-Taught_Marketing_Analyst">
+  <a href="https://github.com/marcoshsq/Marketing_Analytics_Roadmap">
     <img src="https://wallpapers.com/images/hd/marketing-light-blue-artwork-6ha8spypwyb8z6m8.jpg" alt="Digital Marketing Banner" width="100%" />
   </a>
 </p>
@@ -1153,7 +1153,7 @@ Espaço para organização pessoal u.u
 	<a href="https://github.com/marcoshsq/Curriculo_Autodidata_Dados">
 	
 <p align="center">
-  <a href="https://github.com/marcoshsq/Curriculo_Autodidata_Dados">
+  <a href=""https://github.com/marcoshsq/Marketing_Analytics_Roadmap">
     <img src="https://media.giphy.com/media/jAe22Ec5iICCk/giphy.gif" alt="Developer Roadmap" width="" height="">
   </a>
 </p>
