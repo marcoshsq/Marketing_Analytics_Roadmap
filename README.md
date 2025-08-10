@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/marcoshsq/Marketing_Analytics_Roadmap">
-    <img src="https://wallpapers.com/images/hd/marketing-light-blue-artwork-6ha8spypwyb8z6m8.jpg" alt="Digital Marketing Banner" width="100%" />
+    <img src="https://t4.ftcdn.net/jpg/01/18/44/93/360_F_118449320_KVFNE3cnTIPfKvX1XKVBdJCqTxJ14taF.jpg" alt="Digital Marketing Banner" width="100%" />
   </a>
 </p>
 
