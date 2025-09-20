@@ -273,7 +273,7 @@ Espaço para organização pessoal u.u
 
 ##
 
-### Section 02 - Advanced Strategies, Practical Application and Social Media Marketing (~248h)
+### Section 02 - Advanced Strategies and Practical Application (~248h)
 
 In this second section, my goal is to refine and expand the knowledge gained in the previous phase by diving deeper into advanced strategies and real-world applications of digital marketing. This section will focus on how to integrate various marketing channels, enhance campaign performance, and leverage strategic insights to achieve measurable results.
 
@@ -358,48 +358,6 @@ This course concludes the foundational phase of my digital marketing education, 
 Course | Offered by | Effort | Certificate, if applicable | Status |
 :-- | :--: | :--: | :--: | :--: |
 [Digital Marketing](https://www.coursera.org/learn/illinois-tech-digital-marketing) | Illinois Institute of Technology | ~64h | [Certificate of Completion](##) | -- |
-
-<!-- 
-
-
-
-Espaço para organização pessoal u.u
-
-
-
--->
-
-##
-
-#### 📌 Meta Social Media Marketing Professional Certificate (Meta)
-
-This professional certificate offers a comprehensive exploration of social media marketing, focusing on how to effectively leverage platforms like Facebook, Instagram, and others to create, manage, and optimize marketing campaigns. While my initial focus was on paid media, I decided to shift my attention to social media marketing as well, to broaden my skill set and understand the nuances of organic and paid campaigns across social platforms. 
-
-The course covers essential aspects such as social media strategy, content creation, advertising, and campaign analysis. It will help solidify my expertise in executing social media strategies and measuring their success.
-
-I chose this course to gain in-depth knowledge of social media platforms and develop the necessary skills to manage and optimize digital campaigns across a variety of channels. This certificate will equip me with the tools and insights needed to plan, execute, and assess social media marketing campaigns effectively, with an emphasis on performance and data-driven decision-making.
-
-**Skills developed:**
-- Mastery of social media marketing fundamentals and best practices
-- Expertise in social media management and content creation strategies
-- Advanced understanding of social media advertising and campaign optimization
-- Proficiency in measuring and analyzing social media marketing performance
-- Hands-on experience with Meta's advertising tools and platform capabilities
-
-This course is designed to ensure that I can successfully implement and manage social media campaigns, optimize them for maximum reach and engagement, and measure their impact with precision.
-
-Courses included in the certificate:
-
-- [Introduction to Social Media Marketing](##)
-- [Social Media Management](##)
-- [Fundamentals of Social Media Advertising](##)
-- [Advertising with Meta](##)
-- [Measure and Optimize Social Media Marketing Campaigns](##)
-- [Meta Social Media Marketing Capstone](##)
-
-Course | Offered by | Effort | Certificate, if applicable | Status |
-:-- | :--: | :--: | :--: | :--: |
-[Meta Social Media Marketing Professional Certificate](https://www.coursera.org/professional-certificates/facebook-social-media-marketing) | Meta | ~64h | [Certificate of Completion](##) | -- |
 
 ---
 
@@ -670,46 +628,6 @@ Course | Offered by | Effort | Certificate, if applicable | Status |
 :-- | :--: | :--: | :--: | :--: |
 [Social Media Analytics Specialization](https://www.coursera.org/specializations/social-media-analytics) | Johns Hopkins University | ~60h | [Certificate of Completion](##) | -- |
 
-<!-- 
-
-
-
-Espaço para organização pessoal u.u
-
-
-
--->
-
-##
-
-#### 📌 Data Science for Marketing Specialization (University of Colorado Boulder)
-
-This specialization is designed for marketing professionals looking to leverage data science techniques to improve decision-making. Covering key areas such as customer analytics, regression modeling, machine learning, and time-series analysis, this program provides a strong foundation in statistical modeling and predictive analytics for marketing applications.
-
-Throughout this specialization, I will develop the ability to interpret customer data, forecast trends, and make data-driven marketing decisions to optimize engagement and business profitability.
-
-**Skills developed:**
-- Customer data analytics and segmentation
-- Regression modeling for marketing insights
-- Machine learning applications in marketing strategies
-- Time-series analysis and decision-making
-
-**Specialization Breakdown**
-
-This Specialization represents an integrated course program, consisting of 4 courses, which are listed individually below:
-
-1. [Customer Data Analytics for Marketers](##)
-2. [Regression Modeling for Marketers](##)
-3. [Machine Learning for Marketers](##)
-4. [Time, Change, and Decisions for Marketing](##)
-
-This program will enhance my ability to evaluate marketing strategies with a data-driven approach, ensuring continuous optimization and improved return on investment (ROI).
-
-
-Course | Offered by | Effort | Certificate, if applicable | Status |
-:-- | :--: | :--: | :--: | :--: |
-[Data Science for Marketing Specialization](https://www.coursera.org/specializations/datascienceformarketing) | University of Colorado Boulder | ~80h | [Certificate of Completion](##) | -- |
-
 ---
 
 <div align="right">
@@ -759,46 +677,6 @@ Espaço para organização pessoal u.u
 -->
 
 ### Courses
-
-##
-
-#### 📌 Google Business Intelligence Professional Certificate (Google Career Certificates)
-
-This advanced course is designed to provide a comprehensive understanding of the entire business intelligence lifecycle, from data collection and cleaning to reporting and visualization. It will equip me with essential skills in SQL, data wrangling, and visualization using industry-standard tools, while focusing on how to derive actionable business insights from complex datasets. 
-
-As I progress through my learning journey, this course will serve as a robust foundation, preparing me for more sophisticated analytics techniques and advanced marketing performance measurement in future stages.
-
-
-**Skills developed:**
-- Mastery of the data analysis process, including data collection, cleaning, transformation, and visualization
-- Proficiency in SQL for querying databases, extracting valuable insights, and creating data-driven reports
-- Expertise in using data visualization tools to present complex data in clear, impactful ways for business decision-making
-- Ability to identify trends and patterns, offering strategic insights to drive business performance
-- Strong focus on translating raw data into actionable business intelligence, enhancing marketing and operational strategies
-
-By completing this course, I will gain the technical and analytical skills needed to thrive in advanced BI and data-driven decision-making roles, ultimately enabling me to deliver high-impact reports and visualizations that influence business strategies.
-
-**Specialization Breakdown**
-
-This Specialization represents an integrated course program, consisting of 3 courses plus a capstone project, which are listed individually below:
-
-1. [Foundations of Business Intelligence](##)
-2. [The Path to Insights: Data Models and Pipelines](##)
-3. [Decisions, Decisions: Dashboards and Reports](##)
- 
-Course | Offered by | Effort | Certificate, if applicable | Status |
-:-- | :--: | :--: | :--: | :--: |
-[Google Business Intelligence Professional Certificate](https://www.coursera.org/professional-certificates/google-business-intelligence) | Google Career Certificates | ~50h | [Certificate of Completion](##) | -- |
-
-<!-- 
-
-
-
-Espaço para organização pessoal u.u
-
-
-
--->
 
 ##
 
@@ -887,46 +765,6 @@ Espaço para organização pessoal u.u
 
 ##
 
-#### 📌 Graphic Design Specialization (CALARTS)
-
-Graphic design is all around us, in a myriad of forms, both on screen and in print, yet it is always made up of images and words to create a communication goal. This four-course sequence exposes students to the fundamental skills required to make sophisticated graphic design: process, historical context, and communication through image-making and typography. 
-
-By completing this course, I will gain the skills needed to not only analyze data, create visualizations, and communicate insights effectively, but to make those reports look beautiful.
-
-
-**Skills developed:**
-- Gain the fundamental skills needed to be a graphic designer
-- Communicate through image-making and typography
-- Learn everything you need to know to work in interface design, motion graphics, and editorial design
-
-By completing this certification, I will be well-equipped to leverage Tableau in real-world business contexts, particularly in analytics, marketing performance measurement, and strategic decision-making.
-
-**Specialization Breakdown**
-
-This Specialization represents an integrated course program, consisting of 5 courses plus a capstone project, which are listed individually below:
-
-1. [Fundamentals of Graphic Design](##)
-2. [Introduction to Typography](##)
-3. [Introduction to Imagemaking](##)
-4. [Ideas from the History of Graphic Design](##)
-5. [Brand New Brand](##)
- 
-Course | Offered by | Effort | Certificate, if applicable | Status |
-:-- | :--: | :--: | :--: | :--: |
-[Graphic Design Specialization](https://www.coursera.org/specializations/graphic-design) | CALARTS | ~60h | [Certificate of Completion](##) | -- |
-
-<!-- 
-
-
-
-Espaço para organização pessoal u.u
-
-
-
--->
-
-##
-
 #### 📌 User Experience Research and Design Specialization (Michigan)
 
 Integrate UX Research and UX Design to create great products by understanding user needs, rapidly prototyping, and evaluating design concepts. The reason I chose this course is to complement my Design knowledge and be able to develop better reports and visualizations!
@@ -953,43 +791,6 @@ This Specialization represents an integrated course program, consisting of 6 cou
 Course | Offered by | Effort | Certificate, if applicable | Status |
 :-- | :--: | :--: | :--: | :--: |
 [User Experience Research and Design Specialization](https://www.coursera.org/specializations/michiganux) | University of Michigan | ~80h | [Certificate of Completion](##) | -- |
-
-<!-- 
-
-
-
-Espaço para organização pessoal u.u
-
-
-
--->
-
-##
-
-#### 📌 Creating Business Value with Data and Looker (Google Cloud)
-
-This course focuses on leveraging Looker, a powerful data analytics platform, to create business value through effective data analysis and visualization. It is designed to provide a comprehensive understanding of how to extract insights from data and use them to drive strategic decisions. 
-
-The course will help me gain hands-on experience with Looker, allowing me to apply analytical skills to real-world business challenges and improve performance measurement in marketing and other business sectors.
-
-**Skills developed:**
-- Understanding of the data analysis process, from data collection to actionable insights
-- Ability to create interactive dashboards and reports that deliver business value
-- Competence in translating business requirements into data-driven solutions
-
-This course will serve as a strong foundation for more advanced analytics and marketing performance measurement techniques in the later stages of my learning journey.
-
-**Specialization Breakdown**
-
-This Specialization represents an integrated course program, consisting of 3 courses plus a capstone project, which are listed individually below:
-
-1. [Exploring Data Transformation with Google Cloud](https://www.coursera.org/account/accomplishments/certificate/V6JMAUCDW69M)
-2. [Analyzing and Visualizing Data in Looker](https://www.coursera.org/account/accomplishments/certificate/MZ6VCERKX5LN)
-3. [Developing Data Models with LookML](https://www.coursera.org/account/accomplishments/certificate/SD2QW96XAJG8)
- 
-Course | Offered by | Effort | Certificate, if applicable | Status |
-:-- | :--: | :--: | :--: | :--: |
-[Creating Business Value with Data and Looker]([##](https://www.coursera.org/specializations/creating-business-value-with-data-and-looker)) | Google Cloud | ~12h | [Certificate of Completion](https://www.coursera.org/account/accomplishments/specialization/NFLAPJSLEWF2) | ✓ |
 
 <!-- 
 
